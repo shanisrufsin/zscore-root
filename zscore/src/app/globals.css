@@ -1,0 +1,139 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 
+#cd0a5d
+rgb(253, 3, 99)
+rgb(205, 10, 93) rgb(195, 9, 90) rgb(247, 80, 152)
+
+#480ca8
+rgb(72, 12, 168)
+
+#4cc9f0
+rgb(76, 201, 240)
+
+#00b4d8
+rgb(0, 180, 216)
+
+#0099B8
+rgb(0, 153, 184)
+
+#8edef6
+rgb(142, 222, 246)
+*/
+
+:root {
+  --primary-bg: 0, 180, 216;
+}
+
+.btn-primary {
+  --btn-bg-color: 0, 180, 216;
+  --btn-text-color: 255, 255, 255;
+  --btn-spinner-color: 255, 255, 255;
+  --btn-bg-hover-color: 0, 153, 184;
+  --btn-bg-active-color: 0, 153, 184;
+  --btn-ring-color: 0, 153, 184;
+  --btn-disabled-color: 142, 222, 246;
+}
+
+.btn-ghost {
+  --btn-bg-color: transparent;
+  --btn-text-color: 31, 41, 55;
+  --btn-spinner-color: 31, 41, 55;
+  --btn-bg-hover-color: transparent;
+  --btn-bg-active-color: transparent;
+  --btn-ring-color: 209, 213, 219;
+  --btn-disabled-color: 209, 213, 219;
+}
+
+/* 
+#f3f4f6
+rgb(243, 244, 246)
+rgb(229, 231, 235)
+*/
+.btn-secondary {
+  --btn-bg-color: 243, 244, 246;
+  --btn-text-color: 31, 41, 55;
+  --btn-spinner-color: 31, 41, 55;
+  --btn-bg-hover-color: 229, 231, 235;
+  --btn-bg-active-color: 229, 231, 235;
+  --btn-ring-color: 229, 231, 235;
+  --btn-disabled-color: 229, 231, 235;
+}
+
+.btn-unstyled {
+  --btn-bg-color: 255, 255, 255;
+  --btn-text-color: 0, 0, 0;
+  --btn-spinner-color: 31, 41, 55;
+  --btn-bg-hover-color: 229, 231, 235;
+  --btn-bg-active-color: 229, 231, 235;
+  --btn-ring-color: 55, 65, 81;
+  --btn-disabled-color: 229, 231, 235;
+}
+
+.btn-danger {
+  --btn-bg-color: 239, 68, 68;
+  --btn-text-color: 255, 255, 255;
+  --btn-spinner-color: 255, 255, 255;
+  --btn-bg-hover-color: 220, 38, 38;
+  --btn-bg-active-color: 220, 38, 38;
+  --btn-ring-color: 220, 38, 386;
+  --btn-disabled-color: 252, 165, 165;
+}
+
+.Toastify__toast-container {
+  @apply bg-transparent p-3 md:p-0  !important;
+}
+
+.Toastify__toast {
+  @apply mb-3 rounded-2xl bg-transparent p-0 shadow-lg !important;
+}
+
+.Toastify__toast-body {
+  @apply bg-transparent p-0 !important;
+}
+
+.Toastify__close-button {
+  @apply bg-transparent p-2 hover:text-gray-500 !important;
+}
+
+@keyframes dialog-overlay-show {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes dialog-overlay-hide {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+@keyframes dialog-content-show {
+  from {
+    opacity: 0;
+    transform: translate(-50%, -50%) scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);
+  }
+}
+
+@keyframes dialog-content-hide {
+  from {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);
+  }
+  to {
+    opacity: 0;
+    transform: translate(-50%, -50%) scale(0.95);
+  }
+}

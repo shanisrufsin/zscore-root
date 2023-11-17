@@ -1,0 +1,901 @@
+stream_name,stream,district_name,district,o_zscore,zscore,course_name,course,university_name,university
+Biological Science,1,Colombo,1,0.5565,5565,Agriculture ,1,University of Jaffna,1
+Biological Science,1,Colombo,1,0.5619,5619,Agriculture ,1,"Eastern University ,Sri Lanka",2
+Biological Science,1,Colombo,1,0.6095,6095,Agriculture ,1,Rajarata University of Sri Lanka,3
+Biological Science,1,Colombo,1,0.7397,7397,Agriculture ,1,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Colombo,1,0.6247,6247,Agriculture ,1,Wayamba University of Sri Lanka,5
+Biological Science,1,Colombo,1,0.852,8520,Applied Science (Bio. Sci.),2,Rajarata University of Sri Lanka,3
+Biological Science,1,Colombo,1,0.9558,9558,Applied Science (Bio. Sci.),2,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Colombo,1,0.7172,7172,Applied Science (Bio. Sci.),2,"University of Vavuniya , Sri Lanka",6
+Biological Science,1,Colombo,1,1.6014,16014,Biological Science,3,University of Colombo,7
+Biological Science,1,Colombo,1,1.4529,14529,Biological Science,3,University of Peradeniya,8
+Biological Science,1,Colombo,1,1.3382,13382,Biological Science,3,University of Sri Jeyawardanapura,9
+Biological Science,1,Colombo,1,1.2516,12516,Biological Science,3,University of Kelaniya,10
+Biological Science,1,Colombo,1,1.0364,10364,Biological Science,3,University of Jaffna,1
+Biological Science,1,Colombo,1,1.1122,11122,Biological Science,3,University of Ruhuna,11
+Biological Science,1,Colombo,1,1.031,10310,Biological Science,3,"Eastern University ,Sri Lanka",2
+Biological Science,1,Colombo,1,1.0762,10762,Biological Science,3,"South-Eastern University, Sri Lanka",12
+Biological Science,1,Colombo,1,1.5913,15913,Food Science & Technology,4,University of Peradeniya,8
+Biological Science,1,Colombo,1,1.5482,15482,Food Science & Technology,4,University of Sri Jeyawardanapura,9
+Biological Science,1,Colombo,1,1.4507,14507,Food Science & Technology,4,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Colombo,1,1.1348,11348,Food Science & Nutrition,5,Wayamba University of Sri Lanka,5
+Biological Science,1,Colombo,1,1.2522,12522,Agricultural Technology & Management,6,University of Peradeniya,8
+Biological Science,1,Colombo,1,1.7966,17966,BioChemistry & Molecular Biology,7,University of Colombo,7
+Biological Science,1,Colombo,1,1.7397,17397,Veterinary Science,8,University of Peradeniya,8
+Biological Science,1,Colombo,1,1.8534,18534,Dental Surgery,9,University of Peradeniya,8
+Biological Science,1,Colombo,1,1.859,18590,Dental Surgery,9,University of Sri Jeyawardanapura,9
+Biological Science,1,Colombo,1,2.3291,23291,Medicine,10,University of Colombo,7
+Biological Science,1,Colombo,1,2.1807,21807,Medicine,10,University of Peradeniya,8
+Biological Science,1,Colombo,1,2.1282,21282,Medicine,10,University of Sri Jeyawardanapura,9
+Biological Science,1,Colombo,1,2.0511,20511,Medicine,10,University of Kelaniya,10
+Biological Science,1,Colombo,1,1.9284,19284,Medicine,10,University of Jaffna,1
+Biological Science,1,Colombo,1,1.9632,19632,Medicine,10,University of Ruhuna,11
+Biological Science,1,Colombo,1,1.922,19220,Medicine,10,University of Moratuwa,13
+Biological Science,1,Colombo,1,1.9192,19192,Medicine,10,"Eastern University ,Sri Lanka",2
+Biological Science,1,Colombo,1,1.933,19330,Medicine,10,Rajarata University of Sri Lanka,3
+Biological Science,1,Colombo,1,1.9256,19256,Medicine,10,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Colombo,1,1.9313,19313,Medicine,10,Wayamba University of Sri Lanka,5
+Biological Science,1,Gampaha,2,0.5238,5238,Agriculture ,1,University of Jaffna,1
+Biological Science,1,Gampaha,2,0.4569,4569,Agriculture ,1,"Eastern University ,Sri Lanka",2
+Biological Science,1,Gampaha,2,0.6179,6179,Agriculture ,1,Rajarata University of Sri Lanka,3
+Biological Science,1,Gampaha,2,0.7908,7908,Agriculture ,1,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Gampaha,2,0.6284,6284,Agriculture ,1,Wayamba University of Sri Lanka,5
+Biological Science,1,Gampaha,2,0.852,8520,Applied Science (Bio. Sci.),2,Rajarata University of Sri Lanka,3
+Biological Science,1,Gampaha,2,0.9558,9558,Applied Science (Bio. Sci.),2,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Gampaha,2,0.7172,7172,Applied Science (Bio. Sci.),2,"University of Vavuniya , Sri Lanka",6
+Biological Science,1,Gampaha,2,1.6194,16194,Biological Science,3,University of Colombo,7
+Biological Science,1,Gampaha,2,1.4541,14541,Biological Science,3,University of Peradeniya,8
+Biological Science,1,Gampaha,2,1.3416,13416,Biological Science,3,University of Sri Jeyawardanapura,9
+Biological Science,1,Gampaha,2,1.2572,12572,Biological Science,3,University of Kelaniya,10
+Biological Science,1,Gampaha,2,0.9267,9267,Biological Science,3,University of Jaffna,1
+Biological Science,1,Gampaha,2,1.1131,11131,Biological Science,3,University of Ruhuna,11
+Biological Science,1,Gampaha,2,0.8122,8122,Biological Science,3,"Eastern University ,Sri Lanka",2
+Biological Science,1,Gampaha,2,0.7285,7285,Biological Science,3,"South-Eastern University, Sri Lanka",12
+Biological Science,1,Gampaha,2,1.5884,15884,Food Science & Technology,4,University of Peradeniya,8
+Biological Science,1,Gampaha,2,1.5471,15471,Food Science & Technology,4,University of Sri Jeyawardanapura,9
+Biological Science,1,Gampaha,2,1.3456,13456,Food Science & Technology,4,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Gampaha,2,1.1721,11721,Food Science & Nutrition,5,Wayamba University of Sri Lanka,5
+Biological Science,1,Gampaha,2,1.2548,12548,Agricultural Technology & Management,6,University of Peradeniya,8
+Biological Science,1,Gampaha,2,1.6299,16299,BioChemistry & Molecular Biology,7,University of Colombo,7
+Biological Science,1,Gampaha,2,1.6297,16297,Veterinary Science,8,University of Peradeniya,8
+Biological Science,1,Gampaha,2,1.674,16740,Dental Surgery,9,University of Peradeniya,8
+Biological Science,1,Gampaha,2,1.6856,16856,Dental Surgery,9,University of Sri Jeyawardanapura,9
+Biological Science,1,Gampaha,2,2.3707,23707,Medicine,10,University of Colombo,7
+Biological Science,1,Gampaha,2,2.1855,21855,Medicine,10,University of Peradeniya,8
+Biological Science,1,Gampaha,2,2.1374,21374,Medicine,10,University of Sri Jeyawardanapura,9
+Biological Science,1,Gampaha,2,2.0542,20542,Medicine,10,University of Kelaniya,10
+Biological Science,1,Gampaha,2,1.7173,17173,Medicine,10,University of Jaffna,1
+Biological Science,1,Gampaha,2,1.9682,19682,Medicine,10,University of Ruhuna,11
+Biological Science,1,Gampaha,2,1.9214,19214,Medicine,10,University of Moratuwa,13
+Biological Science,1,Gampaha,2,-100,-1000000,Medicine,10,"Eastern University ,Sri Lanka",2
+Biological Science,1,Gampaha,2,1.8387,18387,Medicine,10,Rajarata University of Sri Lanka,3
+Biological Science,1,Gampaha,2,1.6995,16995,Medicine,10,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Gampaha,2,1.7018,17018,Medicine,10,Wayamba University of Sri Lanka,5
+Biological Science,1,Kalutara,3,0.6754,6754,Agriculture ,1,University of Jaffna,1
+Biological Science,1,Kalutara,3,0.6839,6839,Agriculture ,1,"Eastern University ,Sri Lanka",2
+Biological Science,1,Kalutara,3,0.6882,6882,Agriculture ,1,Rajarata University of Sri Lanka,3
+Biological Science,1,Kalutara,3,0.7605,7605,Agriculture ,1,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Kalutara,3,0.6734,6734,Agriculture ,1,Wayamba University of Sri Lanka,5
+Biological Science,1,Kalutara,3,0.8461,8461,Applied Science (Bio. Sci.),2,Rajarata University of Sri Lanka,3
+Biological Science,1,Kalutara,3,0.9576,9576,Applied Science (Bio. Sci.),2,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Kalutara,3,0.8333,8333,Applied Science (Bio. Sci.),2,"University of Vavuniya , Sri Lanka",6
+Biological Science,1,Kalutara,3,1.6262,16262,Biological Science,3,University of Colombo,7
+Biological Science,1,Kalutara,3,1.4561,14561,Biological Science,3,University of Peradeniya,8
+Biological Science,1,Kalutara,3,1.3449,13449,Biological Science,3,University of Sri Jeyawardanapura,9
+Biological Science,1,Kalutara,3,1.261,12610,Biological Science,3,University of Kelaniya,10
+Biological Science,1,Kalutara,3,-100,-1000000,Biological Science,3,University of Jaffna,1
+Biological Science,1,Kalutara,3,1.1162,11162,Biological Science,3,University of Ruhuna,11
+Biological Science,1,Kalutara,3,-100,-1000000,Biological Science,3,"Eastern University ,Sri Lanka",2
+Biological Science,1,Kalutara,3,-100,-1000000,Biological Science,3,"South-Eastern University, Sri Lanka",12
+Biological Science,1,Kalutara,3,1.6106,16106,Food Science & Technology,4,University of Peradeniya,8
+Biological Science,1,Kalutara,3,1.5525,15525,Food Science & Technology,4,University of Sri Jeyawardanapura,9
+Biological Science,1,Kalutara,3,1.5376,15376,Food Science & Technology,4,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Kalutara,3,1.2384,12384,Food Science & Nutrition,5,Wayamba University of Sri Lanka,5
+Biological Science,1,Kalutara,3,1.3334,13334,Agricultural Technology & Management,6,University of Peradeniya,8
+Biological Science,1,Kalutara,3,1.7536,17536,BioChemistry & Molecular Biology,7,University of Colombo,7
+Biological Science,1,Kalutara,3,1.7389,17389,Veterinary Science,8,University of Peradeniya,8
+Biological Science,1,Kalutara,3,1.7794,17794,Dental Surgery,9,University of Peradeniya,8
+Biological Science,1,Kalutara,3,-100,-1000000,Dental Surgery,9,University of Sri Jeyawardanapura,9
+Biological Science,1,Kalutara,3,2.329,23290,Medicine,10,University of Colombo,7
+Biological Science,1,Kalutara,3,2.2109,22109,Medicine,10,University of Peradeniya,8
+Biological Science,1,Kalutara,3,2.1294,21294,Medicine,10,University of Sri Jeyawardanapura,9
+Biological Science,1,Kalutara,3,2.0739,20739,Medicine,10,University of Kelaniya,10
+Biological Science,1,Kalutara,3,1.7933,17933,Medicine,10,University of Jaffna,1
+Biological Science,1,Kalutara,3,1.9664,19664,Medicine,10,University of Ruhuna,11
+Biological Science,1,Kalutara,3,1.9138,19138,Medicine,10,University of Moratuwa,13
+Biological Science,1,Kalutara,3,-100,-1000000,Medicine,10,"Eastern University ,Sri Lanka",2
+Biological Science,1,Kalutara,3,1.8743,18743,Medicine,10,Rajarata University of Sri Lanka,3
+Biological Science,1,Kalutara,3,1.7943,17943,Medicine,10,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Kalutara,3,1.7883,17883,Medicine,10,Wayamba University of Sri Lanka,5
+Biological Science,1,Kandy,4,0.6872,6872,Agriculture ,1,University of Jaffna,1
+Biological Science,1,Kandy,4,0.718,7180,Agriculture ,1,"Eastern University ,Sri Lanka",2
+Biological Science,1,Kandy,4,0.6807,6807,Agriculture ,1,Rajarata University of Sri Lanka,3
+Biological Science,1,Kandy,4,0.7545,7545,Agriculture ,1,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Kandy,4,0.6825,6825,Agriculture ,1,Wayamba University of Sri Lanka,5
+Biological Science,1,Kandy,4,0.8953,8953,Applied Science (Bio. Sci.),2,Rajarata University of Sri Lanka,3
+Biological Science,1,Kandy,4,0.9452,9452,Applied Science (Bio. Sci.),2,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Kandy,4,-100,-1000000,Applied Science (Bio. Sci.),2,"University of Vavuniya , Sri Lanka",6
+Biological Science,1,Kandy,4,1.5986,15986,Biological Science,3,University of Colombo,7
+Biological Science,1,Kandy,4,1.457,14570,Biological Science,3,University of Peradeniya,8
+Biological Science,1,Kandy,4,1.3415,13415,Biological Science,3,University of Sri Jeyawardanapura,9
+Biological Science,1,Kandy,4,1.2514,12514,Biological Science,3,University of Kelaniya,10
+Biological Science,1,Kandy,4,1.1642,11642,Biological Science,3,University of Jaffna,1
+Biological Science,1,Kandy,4,1.1637,11637,Biological Science,3,University of Ruhuna,11
+Biological Science,1,Kandy,4,-100,-1000000,Biological Science,3,"Eastern University ,Sri Lanka",2
+Biological Science,1,Kandy,4,-100,-1000000,Biological Science,3,"South-Eastern University, Sri Lanka",12
+Biological Science,1,Kandy,4,1.593,15930,Food Science & Technology,4,University of Peradeniya,8
+Biological Science,1,Kandy,4,1.5708,15708,Food Science & Technology,4,University of Sri Jeyawardanapura,9
+Biological Science,1,Kandy,4,1.2652,12652,Food Science & Technology,4,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Kandy,4,1.2612,12612,Food Science & Nutrition,5,Wayamba University of Sri Lanka,5
+Biological Science,1,Kandy,4,1.4388,14388,Agricultural Technology & Management,6,University of Peradeniya,8
+Biological Science,1,Kandy,4,1.8032,18032,BioChemistry & Molecular Biology,7,University of Colombo,7
+Biological Science,1,Kandy,4,1.7606,17606,Veterinary Science,8,University of Peradeniya,8
+Biological Science,1,Kandy,4,1.8114,18114,Dental Surgery,9,University of Peradeniya,8
+Biological Science,1,Kandy,4,-100,-1000000,Dental Surgery,9,University of Sri Jeyawardanapura,9
+Biological Science,1,Kandy,4,2.3559,23559,Medicine,10,University of Colombo,7
+Biological Science,1,Kandy,4,2.1825,21825,Medicine,10,University of Peradeniya,8
+Biological Science,1,Kandy,4,2.1436,21436,Medicine,10,University of Sri Jeyawardanapura,9
+Biological Science,1,Kandy,4,2.0513,20513,Medicine,10,University of Kelaniya,10
+Biological Science,1,Kandy,4,1.8311,18311,Medicine,10,University of Jaffna,1
+Biological Science,1,Kandy,4,1.99,19900,Medicine,10,University of Ruhuna,11
+Biological Science,1,Kandy,4,1.9032,19032,Medicine,10,University of Moratuwa,13
+Biological Science,1,Kandy,4,-100,-1000000,Medicine,10,"Eastern University ,Sri Lanka",2
+Biological Science,1,Kandy,4,1.8596,18596,Medicine,10,Rajarata University of Sri Lanka,3
+Biological Science,1,Kandy,4,1.8493,18493,Medicine,10,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Kandy,4,1.8217,18217,Medicine,10,Wayamba University of Sri Lanka,5
+Biological Science,1,Matale,5,0.7933,7933,Agriculture ,1,University of Jaffna,1
+Biological Science,1,Matale,5,0.6612,6612,Agriculture ,1,"Eastern University ,Sri Lanka",2
+Biological Science,1,Matale,5,0.6106,6106,Agriculture ,1,Rajarata University of Sri Lanka,3
+Biological Science,1,Matale,5,0.7691,7691,Agriculture ,1,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Matale,5,0.6643,6643,Agriculture ,1,Wayamba University of Sri Lanka,5
+Biological Science,1,Matale,5,0.8831,8831,Applied Science (Bio. Sci.),2,Rajarata University of Sri Lanka,3
+Biological Science,1,Matale,5,-100,-1000000,Applied Science (Bio. Sci.),2,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Matale,5,0.7147,7147,Applied Science (Bio. Sci.),2,"University of Vavuniya , Sri Lanka",6
+Biological Science,1,Matale,5,1.7145,17145,Biological Science,3,University of Colombo,7
+Biological Science,1,Matale,5,1.4542,14542,Biological Science,3,University of Peradeniya,8
+Biological Science,1,Matale,5,1.3581,13581,Biological Science,3,University of Sri Jeyawardanapura,9
+Biological Science,1,Matale,5,1.2755,12755,Biological Science,3,University of Kelaniya,10
+Biological Science,1,Matale,5,0.9328,9328,Biological Science,3,University of Jaffna,1
+Biological Science,1,Matale,5,1.1383,11383,Biological Science,3,University of Ruhuna,11
+Biological Science,1,Matale,5,1.1028,11028,Biological Science,3,"Eastern University ,Sri Lanka",2
+Biological Science,1,Matale,5,1.1412,11412,Biological Science,3,"South-Eastern University, Sri Lanka",12
+Biological Science,1,Matale,5,1.5956,15956,Food Science & Technology,4,University of Peradeniya,8
+Biological Science,1,Matale,5,1.5786,15786,Food Science & Technology,4,University of Sri Jeyawardanapura,9
+Biological Science,1,Matale,5,1.345,13450,Food Science & Technology,4,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Matale,5,1.2096,12096,Food Science & Nutrition,5,Wayamba University of Sri Lanka,5
+Biological Science,1,Matale,5,1.4595,14595,Agricultural Technology & Management,6,University of Peradeniya,8
+Biological Science,1,Matale,5,1.7408,17408,BioChemistry & Molecular Biology,7,University of Colombo,7
+Biological Science,1,Matale,5,1.664,16640,Veterinary Science,8,University of Peradeniya,8
+Biological Science,1,Matale,5,1.7449,17449,Dental Surgery,9,University of Peradeniya,8
+Biological Science,1,Matale,5,-100,-1000000,Dental Surgery,9,University of Sri Jeyawardanapura,9
+Biological Science,1,Matale,5,-100,-1000000,Medicine,10,University of Colombo,7
+Biological Science,1,Matale,5,2.2968,22968,Medicine,10,University of Peradeniya,8
+Biological Science,1,Matale,5,-100,-1000000,Medicine,10,University of Sri Jeyawardanapura,9
+Biological Science,1,Matale,5,2.0739,20739,Medicine,10,University of Kelaniya,10
+Biological Science,1,Matale,5,1.7872,17872,Medicine,10,University of Jaffna,1
+Biological Science,1,Matale,5,1.9687,19687,Medicine,10,University of Ruhuna,11
+Biological Science,1,Matale,5,-100,-1000000,Medicine,10,University of Moratuwa,13
+Biological Science,1,Matale,5,-100,-1000000,Medicine,10,"Eastern University ,Sri Lanka",2
+Biological Science,1,Matale,5,1.8363,18363,Medicine,10,Rajarata University of Sri Lanka,3
+Biological Science,1,Matale,5,-100,-1000000,Medicine,10,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Matale,5,1.7716,17716,Medicine,10,Wayamba University of Sri Lanka,5
+Biological Science,1,Nuwara Eliya,6,0.5198,5198,Agriculture ,1,University of Jaffna,1
+Biological Science,1,Nuwara Eliya,6,0.4581,4581,Agriculture ,1,"Eastern University ,Sri Lanka",2
+Biological Science,1,Nuwara Eliya,6,0.6229,6229,Agriculture ,1,Rajarata University of Sri Lanka,3
+Biological Science,1,Nuwara Eliya,6,0.8013,8013,Agriculture ,1,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Nuwara Eliya,6,0.8534,8534,Agriculture ,1,Wayamba University of Sri Lanka,5
+Biological Science,1,Nuwara Eliya,6,0.886,8860,Applied Science (Bio. Sci.),2,Rajarata University of Sri Lanka,3
+Biological Science,1,Nuwara Eliya,6,-100,-1000000,Applied Science (Bio. Sci.),2,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Nuwara Eliya,6,0.4038,4038,Applied Science (Bio. Sci.),2,"University of Vavuniya , Sri Lanka",6
+Biological Science,1,Nuwara Eliya,6,-100,-1000000,Biological Science,3,University of Colombo,7
+Biological Science,1,Nuwara Eliya,6,-100,-1000000,Biological Science,3,University of Peradeniya,8
+Biological Science,1,Nuwara Eliya,6,-100,-1000000,Biological Science,3,University of Sri Jeyawardanapura,9
+Biological Science,1,Nuwara Eliya,6,1.2856,12856,Biological Science,3,University of Kelaniya,10
+Biological Science,1,Nuwara Eliya,6,0.9545,9545,Biological Science,3,University of Jaffna,1
+Biological Science,1,Nuwara Eliya,6,1.1921,11921,Biological Science,3,University of Ruhuna,11
+Biological Science,1,Nuwara Eliya,6,0.7924,7924,Biological Science,3,"Eastern University ,Sri Lanka",2
+Biological Science,1,Nuwara Eliya,6,0.478,4780,Biological Science,3,"South-Eastern University, Sri Lanka",12
+Biological Science,1,Nuwara Eliya,6,-100,-1000000,Food Science & Technology,4,University of Peradeniya,8
+Biological Science,1,Nuwara Eliya,6,-100,-1000000,Food Science & Technology,4,University of Sri Jeyawardanapura,9
+Biological Science,1,Nuwara Eliya,6,1.138,11380,Food Science & Technology,4,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Nuwara Eliya,6,1.1471,11471,Food Science & Nutrition,5,Wayamba University of Sri Lanka,5
+Biological Science,1,Nuwara Eliya,6,1.3029,13029,Agricultural Technology & Management,6,University of Peradeniya,8
+Biological Science,1,Nuwara Eliya,6,1.4124,14124,BioChemistry & Molecular Biology,7,University of Colombo,7
+Biological Science,1,Nuwara Eliya,6,1.419,14190,Veterinary Science,8,University of Peradeniya,8
+Biological Science,1,Nuwara Eliya,6,-100,-1000000,Dental Surgery,9,University of Peradeniya,8
+Biological Science,1,Nuwara Eliya,6,1.4637,14637,Dental Surgery,9,University of Sri Jeyawardanapura,9
+Biological Science,1,Nuwara Eliya,6,2.3427,23427,Medicine,10,University of Colombo,7
+Biological Science,1,Nuwara Eliya,6,2.2089,22089,Medicine,10,University of Peradeniya,8
+Biological Science,1,Nuwara Eliya,6,-100,-1000000,Medicine,10,University of Sri Jeyawardanapura,9
+Biological Science,1,Nuwara Eliya,6,-100,-1000000,Medicine,10,University of Kelaniya,10
+Biological Science,1,Nuwara Eliya,6,1.7018,17018,Medicine,10,University of Jaffna,1
+Biological Science,1,Nuwara Eliya,6,1.9859,19859,Medicine,10,University of Ruhuna,11
+Biological Science,1,Nuwara Eliya,6,-100,-1000000,Medicine,10,University of Moratuwa,13
+Biological Science,1,Nuwara Eliya,6,1.4755,14755,Medicine,10,"Eastern University ,Sri Lanka",2
+Biological Science,1,Nuwara Eliya,6,1.846,18460,Medicine,10,Rajarata University of Sri Lanka,3
+Biological Science,1,Nuwara Eliya,6,-100,-1000000,Medicine,10,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Nuwara Eliya,6,1.603,16030,Medicine,10,Wayamba University of Sri Lanka,5
+Biological Science,1,Galle,7,0.6863,6863,Agriculture ,1,University of Jaffna,1
+Biological Science,1,Galle,7,0.6604,6604,Agriculture ,1,"Eastern University ,Sri Lanka",2
+Biological Science,1,Galle,7,0.6428,6428,Agriculture ,1,Rajarata University of Sri Lanka,3
+Biological Science,1,Galle,7,0.7414,7414,Agriculture ,1,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Galle,7,0.6488,6488,Agriculture ,1,Wayamba University of Sri Lanka,5
+Biological Science,1,Galle,7,0.8821,8821,Applied Science (Bio. Sci.),2,Rajarata University of Sri Lanka,3
+Biological Science,1,Galle,7,0.9524,9524,Applied Science (Bio. Sci.),2,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Galle,7,-100,-1000000,Applied Science (Bio. Sci.),2,"University of Vavuniya , Sri Lanka",6
+Biological Science,1,Galle,7,1.6182,16182,Biological Science,3,University of Colombo,7
+Biological Science,1,Galle,7,1.481,14810,Biological Science,3,University of Peradeniya,8
+Biological Science,1,Galle,7,1.3421,13421,Biological Science,3,University of Sri Jeyawardanapura,9
+Biological Science,1,Galle,7,1.2611,12611,Biological Science,3,University of Kelaniya,10
+Biological Science,1,Galle,7,1.0895,10895,Biological Science,3,University of Jaffna,1
+Biological Science,1,Galle,7,1.1172,11172,Biological Science,3,University of Ruhuna,11
+Biological Science,1,Galle,7,1.1021,11021,Biological Science,3,"Eastern University ,Sri Lanka",2
+Biological Science,1,Galle,7,-100,-1000000,Biological Science,3,"South-Eastern University, Sri Lanka",12
+Biological Science,1,Galle,7,1.5909,15909,Food Science & Technology,4,University of Peradeniya,8
+Biological Science,1,Galle,7,1.5497,15497,Food Science & Technology,4,University of Sri Jeyawardanapura,9
+Biological Science,1,Galle,7,1.5446,15446,Food Science & Technology,4,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Galle,7,1.2553,12553,Food Science & Nutrition,5,Wayamba University of Sri Lanka,5
+Biological Science,1,Galle,7,1.3776,13776,Agricultural Technology & Management,6,University of Peradeniya,8
+Biological Science,1,Galle,7,1.8109,18109,BioChemistry & Molecular Biology,7,University of Colombo,7
+Biological Science,1,Galle,7,1.77,17700,Veterinary Science,8,University of Peradeniya,8
+Biological Science,1,Galle,7,1.8577,18577,Dental Surgery,9,University of Peradeniya,8
+Biological Science,1,Galle,7,1.852,18520,Dental Surgery,9,University of Sri Jeyawardanapura,9
+Biological Science,1,Galle,7,2.3357,23357,Medicine,10,University of Colombo,7
+Biological Science,1,Galle,7,2.1812,21812,Medicine,10,University of Peradeniya,8
+Biological Science,1,Galle,7,2.1921,21921,Medicine,10,University of Sri Jeyawardanapura,9
+Biological Science,1,Galle,7,2.0745,20745,Medicine,10,University of Kelaniya,10
+Biological Science,1,Galle,7,2.0383,20383,Medicine,10,University of Jaffna,1
+Biological Science,1,Galle,7,1.9683,19683,Medicine,10,University of Ruhuna,11
+Biological Science,1,Galle,7,1.8991,18991,Medicine,10,University of Moratuwa,13
+Biological Science,1,Galle,7,-100,-1000000,Medicine,10,"Eastern University ,Sri Lanka",2
+Biological Science,1,Galle,7,1.9164,19164,Medicine,10,Rajarata University of Sri Lanka,3
+Biological Science,1,Galle,7,1.8923,18923,Medicine,10,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Galle,7,1.893,18930,Medicine,10,Wayamba University of Sri Lanka,5
+Biological Science,1,Matara,8,0.7699,7699,Agriculture ,1,University of Jaffna,1
+Biological Science,1,Matara,8,0.723,7230,Agriculture ,1,"Eastern University ,Sri Lanka",2
+Biological Science,1,Matara,8,0.7073,7073,Agriculture ,1,Rajarata University of Sri Lanka,3
+Biological Science,1,Matara,8,0.7522,7522,Agriculture ,1,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Matara,8,0.7096,7096,Agriculture ,1,Wayamba University of Sri Lanka,5
+Biological Science,1,Matara,8,0.9336,9336,Applied Science (Bio. Sci.),2,Rajarata University of Sri Lanka,3
+Biological Science,1,Matara,8,0.9469,9469,Applied Science (Bio. Sci.),2,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Matara,8,-100,-1000000,Applied Science (Bio. Sci.),2,"University of Vavuniya , Sri Lanka",6
+Biological Science,1,Matara,8,1.6143,16143,Biological Science,3,University of Colombo,7
+Biological Science,1,Matara,8,1.4632,14632,Biological Science,3,University of Peradeniya,8
+Biological Science,1,Matara,8,1.3388,13388,Biological Science,3,University of Sri Jeyawardanapura,9
+Biological Science,1,Matara,8,1.2519,12519,Biological Science,3,University of Kelaniya,10
+Biological Science,1,Matara,8,-100,-1000000,Biological Science,3,University of Jaffna,1
+Biological Science,1,Matara,8,1.1377,11377,Biological Science,3,University of Ruhuna,11
+Biological Science,1,Matara,8,-100,-1000000,Biological Science,3,"Eastern University ,Sri Lanka",2
+Biological Science,1,Matara,8,-100,-1000000,Biological Science,3,"South-Eastern University, Sri Lanka",12
+Biological Science,1,Matara,8,1.6169,16169,Food Science & Technology,4,University of Peradeniya,8
+Biological Science,1,Matara,8,1.5713,15713,Food Science & Technology,4,University of Sri Jeyawardanapura,9
+Biological Science,1,Matara,8,-100,-1000000,Food Science & Technology,4,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Matara,8,1.2592,12592,Food Science & Nutrition,5,Wayamba University of Sri Lanka,5
+Biological Science,1,Matara,8,1.4518,14518,Agricultural Technology & Management,6,University of Peradeniya,8
+Biological Science,1,Matara,8,1.8085,18085,BioChemistry & Molecular Biology,7,University of Colombo,7
+Biological Science,1,Matara,8,1.7838,17838,Veterinary Science,8,University of Peradeniya,8
+Biological Science,1,Matara,8,1.8652,18652,Dental Surgery,9,University of Peradeniya,8
+Biological Science,1,Matara,8,1.8631,18631,Dental Surgery,9,University of Sri Jeyawardanapura,9
+Biological Science,1,Matara,8,2.3413,23413,Medicine,10,University of Colombo,7
+Biological Science,1,Matara,8,2.1867,21867,Medicine,10,University of Peradeniya,8
+Biological Science,1,Matara,8,2.1302,21302,Medicine,10,University of Sri Jeyawardanapura,9
+Biological Science,1,Matara,8,2.0513,20513,Medicine,10,University of Kelaniya,10
+Biological Science,1,Matara,8,-100,-1000000,Medicine,10,University of Jaffna,1
+Biological Science,1,Matara,8,1.9661,19661,Medicine,10,University of Ruhuna,11
+Biological Science,1,Matara,8,1.9236,19236,Medicine,10,University of Moratuwa,13
+Biological Science,1,Matara,8,-100,-1000000,Medicine,10,"Eastern University ,Sri Lanka",2
+Biological Science,1,Matara,8,1.944,19440,Medicine,10,Rajarata University of Sri Lanka,3
+Biological Science,1,Matara,8,1.9279,19279,Medicine,10,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Matara,8,1.9625,19625,Medicine,10,Wayamba University of Sri Lanka,5
+Biological Science,1,Hambantota,9,0.7509,7509,Agriculture ,1,University of Jaffna,1
+Biological Science,1,Hambantota,9,-100,-1000000,Agriculture ,1,"Eastern University ,Sri Lanka",2
+Biological Science,1,Hambantota,9,0.6806,6806,Agriculture ,1,Rajarata University of Sri Lanka,3
+Biological Science,1,Hambantota,9,0.7376,7376,Agriculture ,1,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Hambantota,9,0.684,6840,Agriculture ,1,Wayamba University of Sri Lanka,5
+Biological Science,1,Hambantota,9,0.849,8490,Applied Science (Bio. Sci.),2,Rajarata University of Sri Lanka,3
+Biological Science,1,Hambantota,9,0.9519,9519,Applied Science (Bio. Sci.),2,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Hambantota,9,0.7247,7247,Applied Science (Bio. Sci.),2,"University of Vavuniya , Sri Lanka",6
+Biological Science,1,Hambantota,9,1.6232,16232,Biological Science,3,University of Colombo,7
+Biological Science,1,Hambantota,9,1.4689,14689,Biological Science,3,University of Peradeniya,8
+Biological Science,1,Hambantota,9,1.3393,13393,Biological Science,3,University of Sri Jeyawardanapura,9
+Biological Science,1,Hambantota,9,1.268,12680,Biological Science,3,University of Kelaniya,10
+Biological Science,1,Hambantota,9,-100,-1000000,Biological Science,3,University of Jaffna,1
+Biological Science,1,Hambantota,9,1.1427,11427,Biological Science,3,University of Ruhuna,11
+Biological Science,1,Hambantota,9,0.808,8080,Biological Science,3,"Eastern University ,Sri Lanka",2
+Biological Science,1,Hambantota,9,0.9064,9064,Biological Science,3,"South-Eastern University, Sri Lanka",12
+Biological Science,1,Hambantota,9,1.6022,16022,Food Science & Technology,4,University of Peradeniya,8
+Biological Science,1,Hambantota,9,1.55,15500,Food Science & Technology,4,University of Sri Jeyawardanapura,9
+Biological Science,1,Hambantota,9,1.434,14340,Food Science & Technology,4,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Hambantota,9,1.2473,12473,Food Science & Nutrition,5,Wayamba University of Sri Lanka,5
+Biological Science,1,Hambantota,9,1.4396,14396,Agricultural Technology & Management,6,University of Peradeniya,8
+Biological Science,1,Hambantota,9,1.7882,17882,BioChemistry & Molecular Biology,7,University of Colombo,7
+Biological Science,1,Hambantota,9,1.77,17700,Veterinary Science,8,University of Peradeniya,8
+Biological Science,1,Hambantota,9,1.8249,18249,Dental Surgery,9,University of Peradeniya,8
+Biological Science,1,Hambantota,9,-100,-1000000,Dental Surgery,9,University of Sri Jeyawardanapura,9
+Biological Science,1,Hambantota,9,2.3664,23664,Medicine,10,University of Colombo,7
+Biological Science,1,Hambantota,9,2.1972,21972,Medicine,10,University of Peradeniya,8
+Biological Science,1,Hambantota,9,2.1466,21466,Medicine,10,University of Sri Jeyawardanapura,9
+Biological Science,1,Hambantota,9,2.0552,20552,Medicine,10,University of Kelaniya,10
+Biological Science,1,Hambantota,9,1.8669,18669,Medicine,10,University of Jaffna,1
+Biological Science,1,Hambantota,9,1.9932,19932,Medicine,10,University of Ruhuna,11
+Biological Science,1,Hambantota,9,1.909,19090,Medicine,10,University of Moratuwa,13
+Biological Science,1,Hambantota,9,1.8476,18476,Medicine,10,"Eastern University ,Sri Lanka",2
+Biological Science,1,Hambantota,9,1.8934,18934,Medicine,10,Rajarata University of Sri Lanka,3
+Biological Science,1,Hambantota,9,1.853,18530,Medicine,10,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Hambantota,9,-100,-1000000,Medicine,10,Wayamba University of Sri Lanka,5
+Biological Science,1,Jaffna,10,0.714,7140,Agriculture ,1,University of Jaffna,1
+Biological Science,1,Jaffna,10,0.8409,8409,Agriculture ,1,"Eastern University ,Sri Lanka",2
+Biological Science,1,Jaffna,10,0.7042,7042,Agriculture ,1,Rajarata University of Sri Lanka,3
+Biological Science,1,Jaffna,10,0.9988,9988,Agriculture ,1,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Jaffna,10,0.737,7370,Agriculture ,1,Wayamba University of Sri Lanka,5
+Biological Science,1,Jaffna,10,0.8772,8772,Applied Science (Bio. Sci.),2,Rajarata University of Sri Lanka,3
+Biological Science,1,Jaffna,10,-100,-1000000,Applied Science (Bio. Sci.),2,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Jaffna,10,0.8133,8133,Applied Science (Bio. Sci.),2,"University of Vavuniya , Sri Lanka",6
+Biological Science,1,Jaffna,10,1.6818,16818,Biological Science,3,University of Colombo,7
+Biological Science,1,Jaffna,10,1.453,14530,Biological Science,3,University of Peradeniya,8
+Biological Science,1,Jaffna,10,1.3579,13579,Biological Science,3,University of Sri Jeyawardanapura,9
+Biological Science,1,Jaffna,10,1.2545,12545,Biological Science,3,University of Kelaniya,10
+Biological Science,1,Jaffna,10,1.046,10460,Biological Science,3,University of Jaffna,1
+Biological Science,1,Jaffna,10,-100,-1000000,Biological Science,3,University of Ruhuna,11
+Biological Science,1,Jaffna,10,-100,-1000000,Biological Science,3,"Eastern University ,Sri Lanka",2
+Biological Science,1,Jaffna,10,-100,-1000000,Biological Science,3,"South-Eastern University, Sri Lanka",12
+Biological Science,1,Jaffna,10,1.6961,16961,Food Science & Technology,4,University of Peradeniya,8
+Biological Science,1,Jaffna,10,1.5807,15807,Food Science & Technology,4,University of Sri Jeyawardanapura,9
+Biological Science,1,Jaffna,10,1.3579,13579,Food Science & Technology,4,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Jaffna,10,1.1919,11919,Food Science & Nutrition,5,Wayamba University of Sri Lanka,5
+Biological Science,1,Jaffna,10,1.386,13860,Agricultural Technology & Management,6,University of Peradeniya,8
+Biological Science,1,Jaffna,10,1.8149,18149,BioChemistry & Molecular Biology,7,University of Colombo,7
+Biological Science,1,Jaffna,10,1.7417,17417,Veterinary Science,8,University of Peradeniya,8
+Biological Science,1,Jaffna,10,1.8516,18516,Dental Surgery,9,University of Peradeniya,8
+Biological Science,1,Jaffna,10,-100,-1000000,Dental Surgery,9,University of Sri Jeyawardanapura,9
+Biological Science,1,Jaffna,10,2.3523,23523,Medicine,10,University of Colombo,7
+Biological Science,1,Jaffna,10,2.1868,21868,Medicine,10,University of Peradeniya,8
+Biological Science,1,Jaffna,10,2.1331,21331,Medicine,10,University of Sri Jeyawardanapura,9
+Biological Science,1,Jaffna,10,-100,-1000000,Medicine,10,University of Kelaniya,10
+Biological Science,1,Jaffna,10,1.87,18700,Medicine,10,University of Jaffna,1
+Biological Science,1,Jaffna,10,-100,-1000000,Medicine,10,University of Ruhuna,11
+Biological Science,1,Jaffna,10,1.9043,19043,Medicine,10,University of Moratuwa,13
+Biological Science,1,Jaffna,10,-100,-1000000,Medicine,10,"Eastern University ,Sri Lanka",2
+Biological Science,1,Jaffna,10,-100,-1000000,Medicine,10,Rajarata University of Sri Lanka,3
+Biological Science,1,Jaffna,10,-100,-1000000,Medicine,10,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Jaffna,10,-100,-1000000,Medicine,10,Wayamba University of Sri Lanka,5
+Biological Science,1,Kilinochchi,11,0.5335,5335,Agriculture ,1,University of Jaffna,1
+Biological Science,1,Kilinochchi,11,0.4842,4842,Agriculture ,1,"Eastern University ,Sri Lanka",2
+Biological Science,1,Kilinochchi,11,-100,-1000000,Agriculture ,1,Rajarata University of Sri Lanka,3
+Biological Science,1,Kilinochchi,11,-100,-1000000,Agriculture ,1,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Kilinochchi,11,-100,-1000000,Agriculture ,1,Wayamba University of Sri Lanka,5
+Biological Science,1,Kilinochchi,11,-100,-1000000,Applied Science (Bio. Sci.),2,Rajarata University of Sri Lanka,3
+Biological Science,1,Kilinochchi,11,-100,-1000000,Applied Science (Bio. Sci.),2,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Kilinochchi,11,0.4054,4054,Applied Science (Bio. Sci.),2,"University of Vavuniya , Sri Lanka",6
+Biological Science,1,Kilinochchi,11,-100,-1000000,Biological Science,3,University of Colombo,7
+Biological Science,1,Kilinochchi,11,-100,-1000000,Biological Science,3,University of Peradeniya,8
+Biological Science,1,Kilinochchi,11,-100,-1000000,Biological Science,3,University of Sri Jeyawardanapura,9
+Biological Science,1,Kilinochchi,11,-100,-1000000,Biological Science,3,University of Kelaniya,10
+Biological Science,1,Kilinochchi,11,0.9321,9321,Biological Science,3,University of Jaffna,1
+Biological Science,1,Kilinochchi,11,-100,-1000000,Biological Science,3,University of Ruhuna,11
+Biological Science,1,Kilinochchi,11,-100,-1000000,Biological Science,3,"Eastern University ,Sri Lanka",2
+Biological Science,1,Kilinochchi,11,0.5231,5231,Biological Science,3,"South-Eastern University, Sri Lanka",12
+Biological Science,1,Kilinochchi,11,-100,-1000000,Food Science & Technology,4,University of Peradeniya,8
+Biological Science,1,Kilinochchi,11,-100,-1000000,Food Science & Technology,4,University of Sri Jeyawardanapura,9
+Biological Science,1,Kilinochchi,11,0.5559,5559,Food Science & Technology,4,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Kilinochchi,11,0.6139,6139,Food Science & Nutrition,5,Wayamba University of Sri Lanka,5
+Biological Science,1,Kilinochchi,11,1.0146,10146,Agricultural Technology & Management,6,University of Peradeniya,8
+Biological Science,1,Kilinochchi,11,1.2509,12509,BioChemistry & Molecular Biology,7,University of Colombo,7
+Biological Science,1,Kilinochchi,11,1.4482,14482,Veterinary Science,8,University of Peradeniya,8
+Biological Science,1,Kilinochchi,11,-100,-1000000,Dental Surgery,9,University of Peradeniya,8
+Biological Science,1,Kilinochchi,11,1.4595,14595,Dental Surgery,9,University of Sri Jeyawardanapura,9
+Biological Science,1,Kilinochchi,11,2.3312,23312,Medicine,10,University of Colombo,7
+Biological Science,1,Kilinochchi,11,-100,-1000000,Medicine,10,University of Peradeniya,8
+Biological Science,1,Kilinochchi,11,2.1628,21628,Medicine,10,University of Sri Jeyawardanapura,9
+Biological Science,1,Kilinochchi,11,-100,-1000000,Medicine,10,University of Kelaniya,10
+Biological Science,1,Kilinochchi,11,1.7085,17085,Medicine,10,University of Jaffna,1
+Biological Science,1,Kilinochchi,11,-100,-1000000,Medicine,10,University of Ruhuna,11
+Biological Science,1,Kilinochchi,11,-100,-1000000,Medicine,10,University of Moratuwa,13
+Biological Science,1,Kilinochchi,11,1.4665,14665,Medicine,10,"Eastern University ,Sri Lanka",2
+Biological Science,1,Kilinochchi,11,-100,-1000000,Medicine,10,Rajarata University of Sri Lanka,3
+Biological Science,1,Kilinochchi,11,-100,-1000000,Medicine,10,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Kilinochchi,11,-100,-1000000,Medicine,10,Wayamba University of Sri Lanka,5
+Biological Science,1,Mannar,12,0.6559,6559,Agriculture ,1,University of Jaffna,1
+Biological Science,1,Mannar,12,0.4941,4941,Agriculture ,1,"Eastern University ,Sri Lanka",2
+Biological Science,1,Mannar,12,0.8485,8485,Agriculture ,1,Rajarata University of Sri Lanka,3
+Biological Science,1,Mannar,12,-100,-1000000,Agriculture ,1,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Mannar,12,-100,-1000000,Agriculture ,1,Wayamba University of Sri Lanka,5
+Biological Science,1,Mannar,12,-100,-1000000,Applied Science (Bio. Sci.),2,Rajarata University of Sri Lanka,3
+Biological Science,1,Mannar,12,-100,-1000000,Applied Science (Bio. Sci.),2,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Mannar,12,0.4127,4127,Applied Science (Bio. Sci.),2,"University of Vavuniya , Sri Lanka",6
+Biological Science,1,Mannar,12,-100,-1000000,Biological Science,3,University of Colombo,7
+Biological Science,1,Mannar,12,-100,-1000000,Biological Science,3,University of Peradeniya,8
+Biological Science,1,Mannar,12,-100,-1000000,Biological Science,3,University of Sri Jeyawardanapura,9
+Biological Science,1,Mannar,12,-100,-1000000,Biological Science,3,University of Kelaniya,10
+Biological Science,1,Mannar,12,-100,-1000000,Biological Science,3,University of Jaffna,1
+Biological Science,1,Mannar,12,-100,-1000000,Biological Science,3,University of Ruhuna,11
+Biological Science,1,Mannar,12,-100,-1000000,Biological Science,3,"Eastern University ,Sri Lanka",2
+Biological Science,1,Mannar,12,0.2473,2473,Biological Science,3,"South-Eastern University, Sri Lanka",12
+Biological Science,1,Mannar,12,-100,-1000000,Food Science & Technology,4,University of Peradeniya,8
+Biological Science,1,Mannar,12,-100,-1000000,Food Science & Technology,4,University of Sri Jeyawardanapura,9
+Biological Science,1,Mannar,12,0.9024,9024,Food Science & Technology,4,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Mannar,12,1.0077,10077,Food Science & Nutrition,5,Wayamba University of Sri Lanka,5
+Biological Science,1,Mannar,12,1.2516,12516,Agricultural Technology & Management,6,University of Peradeniya,8
+Biological Science,1,Mannar,12,1.6198,16198,BioChemistry & Molecular Biology,7,University of Colombo,7
+Biological Science,1,Mannar,12,1.6781,16781,Veterinary Science,8,University of Peradeniya,8
+Biological Science,1,Mannar,12,1.6981,16981,Dental Surgery,9,University of Peradeniya,8
+Biological Science,1,Mannar,12,-100,-1000000,Dental Surgery,9,University of Sri Jeyawardanapura,9
+Biological Science,1,Mannar,12,-100,-1000000,Medicine,10,University of Colombo,7
+Biological Science,1,Mannar,12,-100,-1000000,Medicine,10,University of Peradeniya,8
+Biological Science,1,Mannar,12,-100,-1000000,Medicine,10,University of Sri Jeyawardanapura,9
+Biological Science,1,Mannar,12,-100,-1000000,Medicine,10,University of Kelaniya,10
+Biological Science,1,Mannar,12,1.7153,17153,Medicine,10,University of Jaffna,1
+Biological Science,1,Mannar,12,2.008,20080,Medicine,10,University of Ruhuna,11
+Biological Science,1,Mannar,12,-100,-1000000,Medicine,10,University of Moratuwa,13
+Biological Science,1,Mannar,12,-100,-1000000,Medicine,10,"Eastern University ,Sri Lanka",2
+Biological Science,1,Mannar,12,-100,-1000000,Medicine,10,Rajarata University of Sri Lanka,3
+Biological Science,1,Mannar,12,-100,-1000000,Medicine,10,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Mannar,12,-100,-1000000,Medicine,10,Wayamba University of Sri Lanka,5
+Biological Science,1,Mullaitivu,13,0.5586,5586,Agriculture ,1,University of Jaffna,1
+Biological Science,1,Mullaitivu,13,0.6111,6111,Agriculture ,1,"Eastern University ,Sri Lanka",2
+Biological Science,1,Mullaitivu,13,-100,-1000000,Agriculture ,1,Rajarata University of Sri Lanka,3
+Biological Science,1,Mullaitivu,13,-100,-1000000,Agriculture ,1,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Mullaitivu,13,0.6587,6587,Agriculture ,1,Wayamba University of Sri Lanka,5
+Biological Science,1,Mullaitivu,13,-100,-1000000,Applied Science (Bio. Sci.),2,Rajarata University of Sri Lanka,3
+Biological Science,1,Mullaitivu,13,-100,-1000000,Applied Science (Bio. Sci.),2,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Mullaitivu,13,0.8253,8253,Applied Science (Bio. Sci.),2,"University of Vavuniya , Sri Lanka",6
+Biological Science,1,Mullaitivu,13,-100,-1000000,Biological Science,3,University of Colombo,7
+Biological Science,1,Mullaitivu,13,-100,-1000000,Biological Science,3,University of Peradeniya,8
+Biological Science,1,Mullaitivu,13,-100,-1000000,Biological Science,3,University of Sri Jeyawardanapura,9
+Biological Science,1,Mullaitivu,13,-100,-1000000,Biological Science,3,University of Kelaniya,10
+Biological Science,1,Mullaitivu,13,1.1797,11797,Biological Science,3,University of Jaffna,1
+Biological Science,1,Mullaitivu,13,-100,-1000000,Biological Science,3,University of Ruhuna,11
+Biological Science,1,Mullaitivu,13,0.84,8400,Biological Science,3,"Eastern University ,Sri Lanka",2
+Biological Science,1,Mullaitivu,13,0.645,6450,Biological Science,3,"South-Eastern University, Sri Lanka",12
+Biological Science,1,Mullaitivu,13,-100,-1000000,Food Science & Technology,4,University of Peradeniya,8
+Biological Science,1,Mullaitivu,13,-100,-1000000,Food Science & Technology,4,University of Sri Jeyawardanapura,9
+Biological Science,1,Mullaitivu,13,0.8715,8715,Food Science & Technology,4,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Mullaitivu,13,1.0195,10195,Food Science & Nutrition,5,Wayamba University of Sri Lanka,5
+Biological Science,1,Mullaitivu,13,1.3775,13775,Agricultural Technology & Management,6,University of Peradeniya,8
+Biological Science,1,Mullaitivu,13,1.4887,14887,BioChemistry & Molecular Biology,7,University of Colombo,7
+Biological Science,1,Mullaitivu,13,1.7033,17033,Veterinary Science,8,University of Peradeniya,8
+Biological Science,1,Mullaitivu,13,-100,-1000000,Dental Surgery,9,University of Peradeniya,8
+Biological Science,1,Mullaitivu,13,1.7104,17104,Dental Surgery,9,University of Sri Jeyawardanapura,9
+Biological Science,1,Mullaitivu,13,2.6035,26035,Medicine,10,University of Colombo,7
+Biological Science,1,Mullaitivu,13,-100,-1000000,Medicine,10,University of Peradeniya,8
+Biological Science,1,Mullaitivu,13,-100,-1000000,Medicine,10,University of Sri Jeyawardanapura,9
+Biological Science,1,Mullaitivu,13,-100,-1000000,Medicine,10,University of Kelaniya,10
+Biological Science,1,Mullaitivu,13,1.7161,17161,Medicine,10,University of Jaffna,1
+Biological Science,1,Mullaitivu,13,-100,-1000000,Medicine,10,University of Ruhuna,11
+Biological Science,1,Mullaitivu,13,-100,-1000000,Medicine,10,University of Moratuwa,13
+Biological Science,1,Mullaitivu,13,-100,-1000000,Medicine,10,"Eastern University ,Sri Lanka",2
+Biological Science,1,Mullaitivu,13,-100,-1000000,Medicine,10,Rajarata University of Sri Lanka,3
+Biological Science,1,Mullaitivu,13,-100,-1000000,Medicine,10,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Mullaitivu,13,-100,-1000000,Medicine,10,Wayamba University of Sri Lanka,5
+Biological Science,1,Vavuniya,14,0.5778,5778,Agriculture ,1,University of Jaffna,1
+Biological Science,1,Vavuniya,14,0.4353,4353,Agriculture ,1,"Eastern University ,Sri Lanka",2
+Biological Science,1,Vavuniya,14,0.6133,6133,Agriculture ,1,Rajarata University of Sri Lanka,3
+Biological Science,1,Vavuniya,14,0.8363,8363,Agriculture ,1,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Vavuniya,14,-100,-1000000,Agriculture ,1,Wayamba University of Sri Lanka,5
+Biological Science,1,Vavuniya,14,-100,-1000000,Applied Science (Bio. Sci.),2,Rajarata University of Sri Lanka,3
+Biological Science,1,Vavuniya,14,-100,-1000000,Applied Science (Bio. Sci.),2,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Vavuniya,14,0.425,4250,Applied Science (Bio. Sci.),2,"University of Vavuniya , Sri Lanka",6
+Biological Science,1,Vavuniya,14,-100,-1000000,Biological Science,3,University of Colombo,7
+Biological Science,1,Vavuniya,14,1.4623,14623,Biological Science,3,University of Peradeniya,8
+Biological Science,1,Vavuniya,14,1.3554,13554,Biological Science,3,University of Sri Jeyawardanapura,9
+Biological Science,1,Vavuniya,14,1.3039,13039,Biological Science,3,University of Kelaniya,10
+Biological Science,1,Vavuniya,14,0.9382,9382,Biological Science,3,University of Jaffna,1
+Biological Science,1,Vavuniya,14,-100,-1000000,Biological Science,3,University of Ruhuna,11
+Biological Science,1,Vavuniya,14,-100,-1000000,Biological Science,3,"Eastern University ,Sri Lanka",2
+Biological Science,1,Vavuniya,14,0.4784,4784,Biological Science,3,"South-Eastern University, Sri Lanka",12
+Biological Science,1,Vavuniya,14,-100,-1000000,Food Science & Technology,4,University of Peradeniya,8
+Biological Science,1,Vavuniya,14,-100,-1000000,Food Science & Technology,4,University of Sri Jeyawardanapura,9
+Biological Science,1,Vavuniya,14,1.2494,12494,Food Science & Technology,4,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Vavuniya,14,1.2736,12736,Food Science & Nutrition,5,Wayamba University of Sri Lanka,5
+Biological Science,1,Vavuniya,14,1.4734,14734,Agricultural Technology & Management,6,University of Peradeniya,8
+Biological Science,1,Vavuniya,14,1.6437,16437,BioChemistry & Molecular Biology,7,University of Colombo,7
+Biological Science,1,Vavuniya,14,1.7061,17061,Veterinary Science,8,University of Peradeniya,8
+Biological Science,1,Vavuniya,14,1.7105,17105,Dental Surgery,9,University of Peradeniya,8
+Biological Science,1,Vavuniya,14,-100,-1000000,Dental Surgery,9,University of Sri Jeyawardanapura,9
+Biological Science,1,Vavuniya,14,2.343,23430,Medicine,10,University of Colombo,7
+Biological Science,1,Vavuniya,14,2.2299,22299,Medicine,10,University of Peradeniya,8
+Biological Science,1,Vavuniya,14,2.1645,21645,Medicine,10,University of Sri Jeyawardanapura,9
+Biological Science,1,Vavuniya,14,2.0804,20804,Medicine,10,University of Kelaniya,10
+Biological Science,1,Vavuniya,14,1.7178,17178,Medicine,10,University of Jaffna,1
+Biological Science,1,Vavuniya,14,-100,-1000000,Medicine,10,University of Ruhuna,11
+Biological Science,1,Vavuniya,14,2.0106,20106,Medicine,10,University of Moratuwa,13
+Biological Science,1,Vavuniya,14,-100,-1000000,Medicine,10,"Eastern University ,Sri Lanka",2
+Biological Science,1,Vavuniya,14,-100,-1000000,Medicine,10,Rajarata University of Sri Lanka,3
+Biological Science,1,Vavuniya,14,-100,-1000000,Medicine,10,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Vavuniya,14,-100,-1000000,Medicine,10,Wayamba University of Sri Lanka,5
+Biological Science,1,Trincomalee,15,0.5091,5091,Agriculture ,1,University of Jaffna,1
+Biological Science,1,Trincomalee,15,0.4778,4778,Agriculture ,1,"Eastern University ,Sri Lanka",2
+Biological Science,1,Trincomalee,15,-100,-1000000,Agriculture ,1,Rajarata University of Sri Lanka,3
+Biological Science,1,Trincomalee,15,-100,-1000000,Agriculture ,1,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Trincomalee,15,-100,-1000000,Agriculture ,1,Wayamba University of Sri Lanka,5
+Biological Science,1,Trincomalee,15,0.9137,9137,Applied Science (Bio. Sci.),2,Rajarata University of Sri Lanka,3
+Biological Science,1,Trincomalee,15,-100,-1000000,Applied Science (Bio. Sci.),2,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Trincomalee,15,0.5157,5157,Applied Science (Bio. Sci.),2,"University of Vavuniya , Sri Lanka",6
+Biological Science,1,Trincomalee,15,-100,-1000000,Biological Science,3,University of Colombo,7
+Biological Science,1,Trincomalee,15,-100,-1000000,Biological Science,3,University of Peradeniya,8
+Biological Science,1,Trincomalee,15,1.4306,14306,Biological Science,3,University of Sri Jeyawardanapura,9
+Biological Science,1,Trincomalee,15,1.3004,13004,Biological Science,3,University of Kelaniya,10
+Biological Science,1,Trincomalee,15,1.1801,11801,Biological Science,3,University of Jaffna,1
+Biological Science,1,Trincomalee,15,-100,-1000000,Biological Science,3,University of Ruhuna,11
+Biological Science,1,Trincomalee,15,0.8232,8232,Biological Science,3,"Eastern University ,Sri Lanka",2
+Biological Science,1,Trincomalee,15,0.5556,5556,Biological Science,3,"South-Eastern University, Sri Lanka",12
+Biological Science,1,Trincomalee,15,-100,-1000000,Food Science & Technology,4,University of Peradeniya,8
+Biological Science,1,Trincomalee,15,1.5479,15479,Food Science & Technology,4,University of Sri Jeyawardanapura,9
+Biological Science,1,Trincomalee,15,1.1226,11226,Food Science & Technology,4,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Trincomalee,15,1.1069,11069,Food Science & Nutrition,5,Wayamba University of Sri Lanka,5
+Biological Science,1,Trincomalee,15,1.2107,12107,Agricultural Technology & Management,6,University of Peradeniya,8
+Biological Science,1,Trincomalee,15,1.6851,16851,BioChemistry & Molecular Biology,7,University of Colombo,7
+Biological Science,1,Trincomalee,15,1.6596,16596,Veterinary Science,8,University of Peradeniya,8
+Biological Science,1,Trincomalee,15,1.6941,16941,Dental Surgery,9,University of Peradeniya,8
+Biological Science,1,Trincomalee,15,-100,-1000000,Dental Surgery,9,University of Sri Jeyawardanapura,9
+Biological Science,1,Trincomalee,15,2.3366,23366,Medicine,10,University of Colombo,7
+Biological Science,1,Trincomalee,15,-100,-1000000,Medicine,10,University of Peradeniya,8
+Biological Science,1,Trincomalee,15,2.1399,21399,Medicine,10,University of Sri Jeyawardanapura,9
+Biological Science,1,Trincomalee,15,2.0635,20635,Medicine,10,University of Kelaniya,10
+Biological Science,1,Trincomalee,15,1.7092,17092,Medicine,10,University of Jaffna,1
+Biological Science,1,Trincomalee,15,1.9769,19769,Medicine,10,University of Ruhuna,11
+Biological Science,1,Trincomalee,15,1.9672,19672,Medicine,10,University of Moratuwa,13
+Biological Science,1,Trincomalee,15,1.9139,19139,Medicine,10,"Eastern University ,Sri Lanka",2
+Biological Science,1,Trincomalee,15,1.8458,18458,Medicine,10,Rajarata University of Sri Lanka,3
+Biological Science,1,Trincomalee,15,-100,-1000000,Medicine,10,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Trincomalee,15,1.6985,16985,Medicine,10,Wayamba University of Sri Lanka,5
+Biological Science,1,Batticaloa,16,0.5646,5646,Agriculture ,1,University of Jaffna,1
+Biological Science,1,Batticaloa,16,0.5431,5431,Agriculture ,1,"Eastern University ,Sri Lanka",2
+Biological Science,1,Batticaloa,16,0.6726,6726,Agriculture ,1,Rajarata University of Sri Lanka,3
+Biological Science,1,Batticaloa,16,-100,-1000000,Agriculture ,1,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Batticaloa,16,0.7841,7841,Agriculture ,1,Wayamba University of Sri Lanka,5
+Biological Science,1,Batticaloa,16,0.8694,8694,Applied Science (Bio. Sci.),2,Rajarata University of Sri Lanka,3
+Biological Science,1,Batticaloa,16,-100,-1000000,Applied Science (Bio. Sci.),2,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Batticaloa,16,0.4999,4999,Applied Science (Bio. Sci.),2,"University of Vavuniya , Sri Lanka",6
+Biological Science,1,Batticaloa,16,-100,-1000000,Biological Science,3,University of Colombo,7
+Biological Science,1,Batticaloa,16,1.4664,14664,Biological Science,3,University of Peradeniya,8
+Biological Science,1,Batticaloa,16,1.4438,14438,Biological Science,3,University of Sri Jeyawardanapura,9
+Biological Science,1,Batticaloa,16,1.2657,12657,Biological Science,3,University of Kelaniya,10
+Biological Science,1,Batticaloa,16,0.9413,9413,Biological Science,3,University of Jaffna,1
+Biological Science,1,Batticaloa,16,-100,-1000000,Biological Science,3,University of Ruhuna,11
+Biological Science,1,Batticaloa,16,0.7976,7976,Biological Science,3,"Eastern University ,Sri Lanka",2
+Biological Science,1,Batticaloa,16,0.5383,5383,Biological Science,3,"South-Eastern University, Sri Lanka",12
+Biological Science,1,Batticaloa,16,-100,-1000000,Food Science & Technology,4,University of Peradeniya,8
+Biological Science,1,Batticaloa,16,-100,-1000000,Food Science & Technology,4,University of Sri Jeyawardanapura,9
+Biological Science,1,Batticaloa,16,1.0066,10066,Food Science & Technology,4,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Batticaloa,16,1.2342,12342,Food Science & Nutrition,5,Wayamba University of Sri Lanka,5
+Biological Science,1,Batticaloa,16,1.3868,13868,Agricultural Technology & Management,6,University of Peradeniya,8
+Biological Science,1,Batticaloa,16,1.7347,17347,BioChemistry & Molecular Biology,7,University of Colombo,7
+Biological Science,1,Batticaloa,16,1.6827,16827,Veterinary Science,8,University of Peradeniya,8
+Biological Science,1,Batticaloa,16,1.8133,18133,Dental Surgery,9,University of Peradeniya,8
+Biological Science,1,Batticaloa,16,-100,-1000000,Dental Surgery,9,University of Sri Jeyawardanapura,9
+Biological Science,1,Batticaloa,16,2.3427,23427,Medicine,10,University of Colombo,7
+Biological Science,1,Batticaloa,16,2.1827,21827,Medicine,10,University of Peradeniya,8
+Biological Science,1,Batticaloa,16,2.1449,21449,Medicine,10,University of Sri Jeyawardanapura,9
+Biological Science,1,Batticaloa,16,2.0524,20524,Medicine,10,University of Kelaniya,10
+Biological Science,1,Batticaloa,16,1.8469,18469,Medicine,10,University of Jaffna,1
+Biological Science,1,Batticaloa,16,2.0273,20273,Medicine,10,University of Ruhuna,11
+Biological Science,1,Batticaloa,16,1.9193,19193,Medicine,10,University of Moratuwa,13
+Biological Science,1,Batticaloa,16,1.8755,18755,Medicine,10,"Eastern University ,Sri Lanka",2
+Biological Science,1,Batticaloa,16,1.8609,18609,Medicine,10,Rajarata University of Sri Lanka,3
+Biological Science,1,Batticaloa,16,-100,-1000000,Medicine,10,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Batticaloa,16,-100,-1000000,Medicine,10,Wayamba University of Sri Lanka,5
+Biological Science,1,Ampara,17,0.7229,7229,Agriculture ,1,University of Jaffna,1
+Biological Science,1,Ampara,17,0.7065,7065,Agriculture ,1,"Eastern University ,Sri Lanka",2
+Biological Science,1,Ampara,17,0.6795,6795,Agriculture ,1,Rajarata University of Sri Lanka,3
+Biological Science,1,Ampara,17,-100,-1000000,Agriculture ,1,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Ampara,17,0.6941,6941,Agriculture ,1,Wayamba University of Sri Lanka,5
+Biological Science,1,Ampara,17,0.9039,9039,Applied Science (Bio. Sci.),2,Rajarata University of Sri Lanka,3
+Biological Science,1,Ampara,17,1.0388,10388,Applied Science (Bio. Sci.),2,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Ampara,17,0.6766,6766,Applied Science (Bio. Sci.),2,"University of Vavuniya , Sri Lanka",6
+Biological Science,1,Ampara,17,-100,-1000000,Biological Science,3,University of Colombo,7
+Biological Science,1,Ampara,17,1.4635,14635,Biological Science,3,University of Peradeniya,8
+Biological Science,1,Ampara,17,1.3617,13617,Biological Science,3,University of Sri Jeyawardanapura,9
+Biological Science,1,Ampara,17,1.2568,12568,Biological Science,3,University of Kelaniya,10
+Biological Science,1,Ampara,17,0.9892,9892,Biological Science,3,University of Jaffna,1
+Biological Science,1,Ampara,17,1.1444,11444,Biological Science,3,University of Ruhuna,11
+Biological Science,1,Ampara,17,0.7875,7875,Biological Science,3,"Eastern University ,Sri Lanka",2
+Biological Science,1,Ampara,17,0.7763,7763,Biological Science,3,"South-Eastern University, Sri Lanka",12
+Biological Science,1,Ampara,17,-100,-1000000,Food Science & Technology,4,University of Peradeniya,8
+Biological Science,1,Ampara,17,-100,-1000000,Food Science & Technology,4,University of Sri Jeyawardanapura,9
+Biological Science,1,Ampara,17,1.2324,12324,Food Science & Technology,4,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Ampara,17,1.2792,12792,Food Science & Nutrition,5,Wayamba University of Sri Lanka,5
+Biological Science,1,Ampara,17,1.2763,12763,Agricultural Technology & Management,6,University of Peradeniya,8
+Biological Science,1,Ampara,17,1.6605,16605,BioChemistry & Molecular Biology,7,University of Colombo,7
+Biological Science,1,Ampara,17,1.7165,17165,Veterinary Science,8,University of Peradeniya,8
+Biological Science,1,Ampara,17,1.7805,17805,Dental Surgery,9,University of Peradeniya,8
+Biological Science,1,Ampara,17,1.7829,17829,Dental Surgery,9,University of Sri Jeyawardanapura,9
+Biological Science,1,Ampara,17,2.3439,23439,Medicine,10,University of Colombo,7
+Biological Science,1,Ampara,17,2.2954,22954,Medicine,10,University of Peradeniya,8
+Biological Science,1,Ampara,17,2.13,21300,Medicine,10,University of Sri Jeyawardanapura,9
+Biological Science,1,Ampara,17,2.0562,20562,Medicine,10,University of Kelaniya,10
+Biological Science,1,Ampara,17,1.7939,17939,Medicine,10,University of Jaffna,1
+Biological Science,1,Ampara,17,1.9645,19645,Medicine,10,University of Ruhuna,11
+Biological Science,1,Ampara,17,2.0042,20042,Medicine,10,University of Moratuwa,13
+Biological Science,1,Ampara,17,1.8026,18026,Medicine,10,"Eastern University ,Sri Lanka",2
+Biological Science,1,Ampara,17,1.8444,18444,Medicine,10,Rajarata University of Sri Lanka,3
+Biological Science,1,Ampara,17,1.8129,18129,Medicine,10,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Ampara,17,1.8203,18203,Medicine,10,Wayamba University of Sri Lanka,5
+Biological Science,1,Puttalam,18,0.5142,5142,Agriculture ,1,University of Jaffna,1
+Biological Science,1,Puttalam,18,0.4543,4543,Agriculture ,1,"Eastern University ,Sri Lanka",2
+Biological Science,1,Puttalam,18,0.6682,6682,Agriculture ,1,Rajarata University of Sri Lanka,3
+Biological Science,1,Puttalam,18,0.7987,7987,Agriculture ,1,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Puttalam,18,0.6546,6546,Agriculture ,1,Wayamba University of Sri Lanka,5
+Biological Science,1,Puttalam,18,0.8669,8669,Applied Science (Bio. Sci.),2,Rajarata University of Sri Lanka,3
+Biological Science,1,Puttalam,18,-100,-1000000,Applied Science (Bio. Sci.),2,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Puttalam,18,0.5565,5565,Applied Science (Bio. Sci.),2,"University of Vavuniya , Sri Lanka",6
+Biological Science,1,Puttalam,18,1.607,16070,Biological Science,3,University of Colombo,7
+Biological Science,1,Puttalam,18,1.455,14550,Biological Science,3,University of Peradeniya,8
+Biological Science,1,Puttalam,18,1.3533,13533,Biological Science,3,University of Sri Jeyawardanapura,9
+Biological Science,1,Puttalam,18,1.2516,12516,Biological Science,3,University of Kelaniya,10
+Biological Science,1,Puttalam,18,0.9288,9288,Biological Science,3,University of Jaffna,1
+Biological Science,1,Puttalam,18,1.1289,11289,Biological Science,3,University of Ruhuna,11
+Biological Science,1,Puttalam,18,0.8,8000,Biological Science,3,"Eastern University ,Sri Lanka",2
+Biological Science,1,Puttalam,18,0.7031,7031,Biological Science,3,"South-Eastern University, Sri Lanka",12
+Biological Science,1,Puttalam,18,-100,-1000000,Food Science & Technology,4,University of Peradeniya,8
+Biological Science,1,Puttalam,18,-100,-1000000,Food Science & Technology,4,University of Sri Jeyawardanapura,9
+Biological Science,1,Puttalam,18,1.168,11680,Food Science & Technology,4,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Puttalam,18,1.2013,12013,Food Science & Nutrition,5,Wayamba University of Sri Lanka,5
+Biological Science,1,Puttalam,18,1.3032,13032,Agricultural Technology & Management,6,University of Peradeniya,8
+Biological Science,1,Puttalam,18,1.6327,16327,BioChemistry & Molecular Biology,7,University of Colombo,7
+Biological Science,1,Puttalam,18,1.5761,15761,Veterinary Science,8,University of Peradeniya,8
+Biological Science,1,Puttalam,18,1.6673,16673,Dental Surgery,9,University of Peradeniya,8
+Biological Science,1,Puttalam,18,-100,-1000000,Dental Surgery,9,University of Sri Jeyawardanapura,9
+Biological Science,1,Puttalam,18,2.3609,23609,Medicine,10,University of Colombo,7
+Biological Science,1,Puttalam,18,2.1997,21997,Medicine,10,University of Peradeniya,8
+Biological Science,1,Puttalam,18,2.1282,21282,Medicine,10,University of Sri Jeyawardanapura,9
+Biological Science,1,Puttalam,18,2.0544,20544,Medicine,10,University of Kelaniya,10
+Biological Science,1,Puttalam,18,1.7014,17014,Medicine,10,University of Jaffna,1
+Biological Science,1,Puttalam,18,1.9934,19934,Medicine,10,University of Ruhuna,11
+Biological Science,1,Puttalam,18,1.9593,19593,Medicine,10,University of Moratuwa,13
+Biological Science,1,Puttalam,18,-100,-1000000,Medicine,10,"Eastern University ,Sri Lanka",2
+Biological Science,1,Puttalam,18,1.8379,18379,Medicine,10,Rajarata University of Sri Lanka,3
+Biological Science,1,Puttalam,18,1.7307,17307,Medicine,10,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Puttalam,18,1.6878,16878,Medicine,10,Wayamba University of Sri Lanka,5
+Biological Science,1,Kurunegala,19,0.6879,6879,Agriculture ,1,University of Jaffna,1
+Biological Science,1,Kurunegala,19,0.6814,6814,Agriculture ,1,"Eastern University ,Sri Lanka",2
+Biological Science,1,Kurunegala,19,0.6755,6755,Agriculture ,1,Rajarata University of Sri Lanka,3
+Biological Science,1,Kurunegala,19,0.7497,7497,Agriculture ,1,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Kurunegala,19,0.6738,6738,Agriculture ,1,Wayamba University of Sri Lanka,5
+Biological Science,1,Kurunegala,19,0.8461,8461,Applied Science (Bio. Sci.),2,Rajarata University of Sri Lanka,3
+Biological Science,1,Kurunegala,19,0.974,9740,Applied Science (Bio. Sci.),2,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Kurunegala,19,0.829,8290,Applied Science (Bio. Sci.),2,"University of Vavuniya , Sri Lanka",6
+Biological Science,1,Kurunegala,19,1.6359,16359,Biological Science,3,University of Colombo,7
+Biological Science,1,Kurunegala,19,1.465,14650,Biological Science,3,University of Peradeniya,8
+Biological Science,1,Kurunegala,19,1.3566,13566,Biological Science,3,University of Sri Jeyawardanapura,9
+Biological Science,1,Kurunegala,19,1.2502,12502,Biological Science,3,University of Kelaniya,10
+Biological Science,1,Kurunegala,19,1.0389,10389,Biological Science,3,University of Jaffna,1
+Biological Science,1,Kurunegala,19,1.1122,11122,Biological Science,3,University of Ruhuna,11
+Biological Science,1,Kurunegala,19,1.0611,10611,Biological Science,3,"Eastern University ,Sri Lanka",2
+Biological Science,1,Kurunegala,19,-100,-1000000,Biological Science,3,"South-Eastern University, Sri Lanka",12
+Biological Science,1,Kurunegala,19,1.6404,16404,Food Science & Technology,4,University of Peradeniya,8
+Biological Science,1,Kurunegala,19,1.5463,15463,Food Science & Technology,4,University of Sri Jeyawardanapura,9
+Biological Science,1,Kurunegala,19,1.3363,13363,Food Science & Technology,4,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Kurunegala,19,1.2473,12473,Food Science & Nutrition,5,Wayamba University of Sri Lanka,5
+Biological Science,1,Kurunegala,19,1.4227,14227,Agricultural Technology & Management,6,University of Peradeniya,8
+Biological Science,1,Kurunegala,19,1.8007,18007,BioChemistry & Molecular Biology,7,University of Colombo,7
+Biological Science,1,Kurunegala,19,1.7771,17771,Veterinary Science,8,University of Peradeniya,8
+Biological Science,1,Kurunegala,19,1.8081,18081,Dental Surgery,9,University of Peradeniya,8
+Biological Science,1,Kurunegala,19,-100,-1000000,Dental Surgery,9,University of Sri Jeyawardanapura,9
+Biological Science,1,Kurunegala,19,2.3717,23717,Medicine,10,University of Colombo,7
+Biological Science,1,Kurunegala,19,2.1811,21811,Medicine,10,University of Peradeniya,8
+Biological Science,1,Kurunegala,19,2.1311,21311,Medicine,10,University of Sri Jeyawardanapura,9
+Biological Science,1,Kurunegala,19,2.0518,20518,Medicine,10,University of Kelaniya,10
+Biological Science,1,Kurunegala,19,1.8317,18317,Medicine,10,University of Jaffna,1
+Biological Science,1,Kurunegala,19,1.9628,19628,Medicine,10,University of Ruhuna,11
+Biological Science,1,Kurunegala,19,1.9167,19167,Medicine,10,University of Moratuwa,13
+Biological Science,1,Kurunegala,19,-100,-1000000,Medicine,10,"Eastern University ,Sri Lanka",2
+Biological Science,1,Kurunegala,19,1.8368,18368,Medicine,10,Rajarata University of Sri Lanka,3
+Biological Science,1,Kurunegala,19,1.9561,19561,Medicine,10,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Kurunegala,19,1.8327,18327,Medicine,10,Wayamba University of Sri Lanka,5
+Biological Science,1,Anuradhapura,20,0.5445,5445,Agriculture ,1,University of Jaffna,1
+Biological Science,1,Anuradhapura,20,0.5516,5516,Agriculture ,1,"Eastern University ,Sri Lanka",2
+Biological Science,1,Anuradhapura,20,0.6138,6138,Agriculture ,1,Rajarata University of Sri Lanka,3
+Biological Science,1,Anuradhapura,20,0.7472,7472,Agriculture ,1,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Anuradhapura,20,0.6677,6677,Agriculture ,1,Wayamba University of Sri Lanka,5
+Biological Science,1,Anuradhapura,20,0.8497,8497,Applied Science (Bio. Sci.),2,Rajarata University of Sri Lanka,3
+Biological Science,1,Anuradhapura,20,-100,-1000000,Applied Science (Bio. Sci.),2,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Anuradhapura,20,0.5093,5093,Applied Science (Bio. Sci.),2,"University of Vavuniya , Sri Lanka",6
+Biological Science,1,Anuradhapura,20,-100,-1000000,Biological Science,3,University of Colombo,7
+Biological Science,1,Anuradhapura,20,-100,-1000000,Biological Science,3,University of Peradeniya,8
+Biological Science,1,Anuradhapura,20,1.3577,13577,Biological Science,3,University of Sri Jeyawardanapura,9
+Biological Science,1,Anuradhapura,20,1.2681,12681,Biological Science,3,University of Kelaniya,10
+Biological Science,1,Anuradhapura,20,0.9307,9307,Biological Science,3,University of Jaffna,1
+Biological Science,1,Anuradhapura,20,1.1698,11698,Biological Science,3,University of Ruhuna,11
+Biological Science,1,Anuradhapura,20,0.7815,7815,Biological Science,3,"Eastern University ,Sri Lanka",2
+Biological Science,1,Anuradhapura,20,0.4899,4899,Biological Science,3,"South-Eastern University, Sri Lanka",12
+Biological Science,1,Anuradhapura,20,-100,-1000000,Food Science & Technology,4,University of Peradeniya,8
+Biological Science,1,Anuradhapura,20,-100,-1000000,Food Science & Technology,4,University of Sri Jeyawardanapura,9
+Biological Science,1,Anuradhapura,20,1.0831,10831,Food Science & Technology,4,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Anuradhapura,20,1.0938,10938,Food Science & Nutrition,5,Wayamba University of Sri Lanka,5
+Biological Science,1,Anuradhapura,20,1.36,13600,Agricultural Technology & Management,6,University of Peradeniya,8
+Biological Science,1,Anuradhapura,20,1.4658,14658,BioChemistry & Molecular Biology,7,University of Colombo,7
+Biological Science,1,Anuradhapura,20,1.4641,14641,Veterinary Science,8,University of Peradeniya,8
+Biological Science,1,Anuradhapura,20,1.5067,15067,Dental Surgery,9,University of Peradeniya,8
+Biological Science,1,Anuradhapura,20,1.4877,14877,Dental Surgery,9,University of Sri Jeyawardanapura,9
+Biological Science,1,Anuradhapura,20,2.3478,23478,Medicine,10,University of Colombo,7
+Biological Science,1,Anuradhapura,20,2.185,21850,Medicine,10,University of Peradeniya,8
+Biological Science,1,Anuradhapura,20,2.1362,21362,Medicine,10,University of Sri Jeyawardanapura,9
+Biological Science,1,Anuradhapura,20,2.1113,21113,Medicine,10,University of Kelaniya,10
+Biological Science,1,Anuradhapura,20,1.7029,17029,Medicine,10,University of Jaffna,1
+Biological Science,1,Anuradhapura,20,1.9675,19675,Medicine,10,University of Ruhuna,11
+Biological Science,1,Anuradhapura,20,1.9516,19516,Medicine,10,University of Moratuwa,13
+Biological Science,1,Anuradhapura,20,1.495,14950,Medicine,10,"Eastern University ,Sri Lanka",2
+Biological Science,1,Anuradhapura,20,1.8668,18668,Medicine,10,Rajarata University of Sri Lanka,3
+Biological Science,1,Anuradhapura,20,1.8704,18704,Medicine,10,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Anuradhapura,20,1.599,15990,Medicine,10,Wayamba University of Sri Lanka,5
+Biological Science,1,Polonnaruwa,21,0.6401,6401,Agriculture ,1,University of Jaffna,1
+Biological Science,1,Polonnaruwa,21,0.3941,3941,Agriculture ,1,"Eastern University ,Sri Lanka",2
+Biological Science,1,Polonnaruwa,21,0.7512,7512,Agriculture ,1,Rajarata University of Sri Lanka,3
+Biological Science,1,Polonnaruwa,21,0.8213,8213,Agriculture ,1,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Polonnaruwa,21,-100,-1000000,Agriculture ,1,Wayamba University of Sri Lanka,5
+Biological Science,1,Polonnaruwa,21,-100,-1000000,Applied Science (Bio. Sci.),2,Rajarata University of Sri Lanka,3
+Biological Science,1,Polonnaruwa,21,-100,-1000000,Applied Science (Bio. Sci.),2,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Polonnaruwa,21,0.4866,4866,Applied Science (Bio. Sci.),2,"University of Vavuniya , Sri Lanka",6
+Biological Science,1,Polonnaruwa,21,-100,-1000000,Biological Science,3,University of Colombo,7
+Biological Science,1,Polonnaruwa,21,-100,-1000000,Biological Science,3,University of Peradeniya,8
+Biological Science,1,Polonnaruwa,21,1.3914,13914,Biological Science,3,University of Sri Jeyawardanapura,9
+Biological Science,1,Polonnaruwa,21,-100,-1000000,Biological Science,3,University of Kelaniya,10
+Biological Science,1,Polonnaruwa,21,0.9436,9436,Biological Science,3,University of Jaffna,1
+Biological Science,1,Polonnaruwa,21,1.2074,12074,Biological Science,3,University of Ruhuna,11
+Biological Science,1,Polonnaruwa,21,0.8421,8421,Biological Science,3,"Eastern University ,Sri Lanka",2
+Biological Science,1,Polonnaruwa,21,0.5709,5709,Biological Science,3,"South-Eastern University, Sri Lanka",12
+Biological Science,1,Polonnaruwa,21,-100,-1000000,Food Science & Technology,4,University of Peradeniya,8
+Biological Science,1,Polonnaruwa,21,-100,-1000000,Food Science & Technology,4,University of Sri Jeyawardanapura,9
+Biological Science,1,Polonnaruwa,21,0.9823,9823,Food Science & Technology,4,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Polonnaruwa,21,1.1167,11167,Food Science & Nutrition,5,Wayamba University of Sri Lanka,5
+Biological Science,1,Polonnaruwa,21,1.1486,11486,Agricultural Technology & Management,6,University of Peradeniya,8
+Biological Science,1,Polonnaruwa,21,1.5321,15321,BioChemistry & Molecular Biology,7,University of Colombo,7
+Biological Science,1,Polonnaruwa,21,1.437,14370,Veterinary Science,8,University of Peradeniya,8
+Biological Science,1,Polonnaruwa,21,1.5502,15502,Dental Surgery,9,University of Peradeniya,8
+Biological Science,1,Polonnaruwa,21,-100,-1000000,Dental Surgery,9,University of Sri Jeyawardanapura,9
+Biological Science,1,Polonnaruwa,21,2.4901,24901,Medicine,10,University of Colombo,7
+Biological Science,1,Polonnaruwa,21,2.228,22280,Medicine,10,University of Peradeniya,8
+Biological Science,1,Polonnaruwa,21,2.1644,21644,Medicine,10,University of Sri Jeyawardanapura,9
+Biological Science,1,Polonnaruwa,21,2.098,20980,Medicine,10,University of Kelaniya,10
+Biological Science,1,Polonnaruwa,21,1.779,17790,Medicine,10,University of Jaffna,1
+Biological Science,1,Polonnaruwa,21,1.9648,19648,Medicine,10,University of Ruhuna,11
+Biological Science,1,Polonnaruwa,21,-100,-1000000,Medicine,10,University of Moratuwa,13
+Biological Science,1,Polonnaruwa,21,1.5706,15706,Medicine,10,"Eastern University ,Sri Lanka",2
+Biological Science,1,Polonnaruwa,21,1.8391,18391,Medicine,10,Rajarata University of Sri Lanka,3
+Biological Science,1,Polonnaruwa,21,1.7713,17713,Medicine,10,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Polonnaruwa,21,1.5923,15923,Medicine,10,Wayamba University of Sri Lanka,5
+Biological Science,1,Badulla,22,0.6024,6024,Agriculture ,1,University of Jaffna,1
+Biological Science,1,Badulla,22,0.665,6650,Agriculture ,1,"Eastern University ,Sri Lanka",2
+Biological Science,1,Badulla,22,0.6151,6151,Agriculture ,1,Rajarata University of Sri Lanka,3
+Biological Science,1,Badulla,22,0.7392,7392,Agriculture ,1,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Badulla,22,0.692,6920,Agriculture ,1,Wayamba University of Sri Lanka,5
+Biological Science,1,Badulla,22,0.8869,8869,Applied Science (Bio. Sci.),2,Rajarata University of Sri Lanka,3
+Biological Science,1,Badulla,22,0.962,9620,Applied Science (Bio. Sci.),2,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Badulla,22,0.6846,6846,Applied Science (Bio. Sci.),2,"University of Vavuniya , Sri Lanka",6
+Biological Science,1,Badulla,22,1.771,17710,Biological Science,3,University of Colombo,7
+Biological Science,1,Badulla,22,1.456,14560,Biological Science,3,University of Peradeniya,8
+Biological Science,1,Badulla,22,1.3379,13379,Biological Science,3,University of Sri Jeyawardanapura,9
+Biological Science,1,Badulla,22,1.251,12510,Biological Science,3,University of Kelaniya,10
+Biological Science,1,Badulla,22,0.9363,9363,Biological Science,3,University of Jaffna,1
+Biological Science,1,Badulla,22,1.1226,11226,Biological Science,3,University of Ruhuna,11
+Biological Science,1,Badulla,22,0.7868,7868,Biological Science,3,"Eastern University ,Sri Lanka",2
+Biological Science,1,Badulla,22,0.7318,7318,Biological Science,3,"South-Eastern University, Sri Lanka",12
+Biological Science,1,Badulla,22,-100,-1000000,Food Science & Technology,4,University of Peradeniya,8
+Biological Science,1,Badulla,22,-100,-1000000,Food Science & Technology,4,University of Sri Jeyawardanapura,9
+Biological Science,1,Badulla,22,1.2004,12004,Food Science & Technology,4,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Badulla,22,1.1482,11482,Food Science & Nutrition,5,Wayamba University of Sri Lanka,5
+Biological Science,1,Badulla,22,1.3364,13364,Agricultural Technology & Management,6,University of Peradeniya,8
+Biological Science,1,Badulla,22,1.6073,16073,BioChemistry & Molecular Biology,7,University of Colombo,7
+Biological Science,1,Badulla,22,1.6042,16042,Veterinary Science,8,University of Peradeniya,8
+Biological Science,1,Badulla,22,1.6466,16466,Dental Surgery,9,University of Peradeniya,8
+Biological Science,1,Badulla,22,-100,-1000000,Dental Surgery,9,University of Sri Jeyawardanapura,9
+Biological Science,1,Badulla,22,2.386,23860,Medicine,10,University of Colombo,7
+Biological Science,1,Badulla,22,2.1834,21834,Medicine,10,University of Peradeniya,8
+Biological Science,1,Badulla,22,2.1701,21701,Medicine,10,University of Sri Jeyawardanapura,9
+Biological Science,1,Badulla,22,2.0548,20548,Medicine,10,University of Kelaniya,10
+Biological Science,1,Badulla,22,1.7012,17012,Medicine,10,University of Jaffna,1
+Biological Science,1,Badulla,22,1.9627,19627,Medicine,10,University of Ruhuna,11
+Biological Science,1,Badulla,22,1.9425,19425,Medicine,10,University of Moratuwa,13
+Biological Science,1,Badulla,22,1.6782,16782,Medicine,10,"Eastern University ,Sri Lanka",2
+Biological Science,1,Badulla,22,1.8362,18362,Medicine,10,Rajarata University of Sri Lanka,3
+Biological Science,1,Badulla,22,1.6983,16983,Medicine,10,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Badulla,22,1.6794,16794,Medicine,10,Wayamba University of Sri Lanka,5
+Biological Science,1,Monaragala,23,0.5389,5389,Agriculture ,1,University of Jaffna,1
+Biological Science,1,Monaragala,23,0.5033,5033,Agriculture ,1,"Eastern University ,Sri Lanka",2
+Biological Science,1,Monaragala,23,0.6299,6299,Agriculture ,1,Rajarata University of Sri Lanka,3
+Biological Science,1,Monaragala,23,0.7412,7412,Agriculture ,1,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Monaragala,23,0.6316,6316,Agriculture ,1,Wayamba University of Sri Lanka,5
+Biological Science,1,Monaragala,23,0.8516,8516,Applied Science (Bio. Sci.),2,Rajarata University of Sri Lanka,3
+Biological Science,1,Monaragala,23,-100,-1000000,Applied Science (Bio. Sci.),2,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Monaragala,23,0.4712,4712,Applied Science (Bio. Sci.),2,"University of Vavuniya , Sri Lanka",6
+Biological Science,1,Monaragala,23,-100,-1000000,Biological Science,3,University of Colombo,7
+Biological Science,1,Monaragala,23,1.5404,15404,Biological Science,3,University of Peradeniya,8
+Biological Science,1,Monaragala,23,-100,-1000000,Biological Science,3,University of Sri Jeyawardanapura,9
+Biological Science,1,Monaragala,23,-100,-1000000,Biological Science,3,University of Kelaniya,10
+Biological Science,1,Monaragala,23,0.9289,9289,Biological Science,3,University of Jaffna,1
+Biological Science,1,Monaragala,23,1.1352,11352,Biological Science,3,University of Ruhuna,11
+Biological Science,1,Monaragala,23,0.7909,7909,Biological Science,3,"Eastern University ,Sri Lanka",2
+Biological Science,1,Monaragala,23,0.4953,4953,Biological Science,3,"South-Eastern University, Sri Lanka",12
+Biological Science,1,Monaragala,23,-100,-1000000,Food Science & Technology,4,University of Peradeniya,8
+Biological Science,1,Monaragala,23,-100,-1000000,Food Science & Technology,4,University of Sri Jeyawardanapura,9
+Biological Science,1,Monaragala,23,1.2393,12393,Food Science & Technology,4,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Monaragala,23,1.0817,10817,Food Science & Nutrition,5,Wayamba University of Sri Lanka,5
+Biological Science,1,Monaragala,23,1.2875,12875,Agricultural Technology & Management,6,University of Peradeniya,8
+Biological Science,1,Monaragala,23,1.3628,13628,BioChemistry & Molecular Biology,7,University of Colombo,7
+Biological Science,1,Monaragala,23,1.3783,13783,Veterinary Science,8,University of Peradeniya,8
+Biological Science,1,Monaragala,23,1.4966,14966,Dental Surgery,9,University of Peradeniya,8
+Biological Science,1,Monaragala,23,1.4042,14042,Dental Surgery,9,University of Sri Jeyawardanapura,9
+Biological Science,1,Monaragala,23,-100,-1000000,Medicine,10,University of Colombo,7
+Biological Science,1,Monaragala,23,2.1977,21977,Medicine,10,University of Peradeniya,8
+Biological Science,1,Monaragala,23,-100,-1000000,Medicine,10,University of Sri Jeyawardanapura,9
+Biological Science,1,Monaragala,23,2.0601,20601,Medicine,10,University of Kelaniya,10
+Biological Science,1,Monaragala,23,1.7648,17648,Medicine,10,University of Jaffna,1
+Biological Science,1,Monaragala,23,1.9966,19966,Medicine,10,University of Ruhuna,11
+Biological Science,1,Monaragala,23,-100,-1000000,Medicine,10,University of Moratuwa,13
+Biological Science,1,Monaragala,23,1.4059,14059,Medicine,10,"Eastern University ,Sri Lanka",2
+Biological Science,1,Monaragala,23,1.872,18720,Medicine,10,Rajarata University of Sri Lanka,3
+Biological Science,1,Monaragala,23,1.754,17540,Medicine,10,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Monaragala,23,1.5885,15885,Medicine,10,Wayamba University of Sri Lanka,5
+Biological Science,1,Kegalle,24,0.7329,7329,Agriculture ,1,University of Jaffna,1
+Biological Science,1,Kegalle,24,0.7265,7265,Agriculture ,1,"Eastern University ,Sri Lanka",2
+Biological Science,1,Kegalle,24,0.7104,7104,Agriculture ,1,Rajarata University of Sri Lanka,3
+Biological Science,1,Kegalle,24,0.7529,7529,Agriculture ,1,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Kegalle,24,0.7114,7114,Agriculture ,1,Wayamba University of Sri Lanka,5
+Biological Science,1,Kegalle,24,0.9084,9084,Applied Science (Bio. Sci.),2,Rajarata University of Sri Lanka,3
+Biological Science,1,Kegalle,24,0.9593,9593,Applied Science (Bio. Sci.),2,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Kegalle,24,-100,-1000000,Applied Science (Bio. Sci.),2,"University of Vavuniya , Sri Lanka",6
+Biological Science,1,Kegalle,24,1.6138,16138,Biological Science,3,University of Colombo,7
+Biological Science,1,Kegalle,24,1.4564,14564,Biological Science,3,University of Peradeniya,8
+Biological Science,1,Kegalle,24,1.3599,13599,Biological Science,3,University of Sri Jeyawardanapura,9
+Biological Science,1,Kegalle,24,1.2602,12602,Biological Science,3,University of Kelaniya,10
+Biological Science,1,Kegalle,24,1.1179,11179,Biological Science,3,University of Jaffna,1
+Biological Science,1,Kegalle,24,1.1137,11137,Biological Science,3,University of Ruhuna,11
+Biological Science,1,Kegalle,24,1.1049,11049,Biological Science,3,"Eastern University ,Sri Lanka",2
+Biological Science,1,Kegalle,24,-100,-1000000,Biological Science,3,"South-Eastern University, Sri Lanka",12
+Biological Science,1,Kegalle,24,1.5859,15859,Food Science & Technology,4,University of Peradeniya,8
+Biological Science,1,Kegalle,24,1.5597,15597,Food Science & Technology,4,University of Sri Jeyawardanapura,9
+Biological Science,1,Kegalle,24,1.4642,14642,Food Science & Technology,4,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Kegalle,24,1.285,12850,Food Science & Nutrition,5,Wayamba University of Sri Lanka,5
+Biological Science,1,Kegalle,24,1.4116,14116,Agricultural Technology & Management,6,University of Peradeniya,8
+Biological Science,1,Kegalle,24,1.746,17460,BioChemistry & Molecular Biology,7,University of Colombo,7
+Biological Science,1,Kegalle,24,1.7447,17447,Veterinary Science,8,University of Peradeniya,8
+Biological Science,1,Kegalle,24,1.7638,17638,Dental Surgery,9,University of Peradeniya,8
+Biological Science,1,Kegalle,24,-100,-1000000,Dental Surgery,9,University of Sri Jeyawardanapura,9
+Biological Science,1,Kegalle,24,2.3958,23958,Medicine,10,University of Colombo,7
+Biological Science,1,Kegalle,24,2.1815,21815,Medicine,10,University of Peradeniya,8
+Biological Science,1,Kegalle,24,2.1407,21407,Medicine,10,University of Sri Jeyawardanapura,9
+Biological Science,1,Kegalle,24,2.0546,20546,Medicine,10,University of Kelaniya,10
+Biological Science,1,Kegalle,24,1.7941,17941,Medicine,10,University of Jaffna,1
+Biological Science,1,Kegalle,24,1.9692,19692,Medicine,10,University of Ruhuna,11
+Biological Science,1,Kegalle,24,1.9024,19024,Medicine,10,University of Moratuwa,13
+Biological Science,1,Kegalle,24,-100,-1000000,Medicine,10,"Eastern University ,Sri Lanka",2
+Biological Science,1,Kegalle,24,1.8414,18414,Medicine,10,Rajarata University of Sri Lanka,3
+Biological Science,1,Kegalle,24,1.8019,18019,Medicine,10,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Kegalle,24,1.7787,17787,Medicine,10,Wayamba University of Sri Lanka,5
+Biological Science,1,Ratnapura,25,0.5764,5764,Agriculture ,1,University of Jaffna,1
+Biological Science,1,Ratnapura,25,0.5787,5787,Agriculture ,1,"Eastern University ,Sri Lanka",2
+Biological Science,1,Ratnapura,25,0.6218,6218,Agriculture ,1,Rajarata University of Sri Lanka,3
+Biological Science,1,Ratnapura,25,0.7608,7608,Agriculture ,1,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Ratnapura,25,0.628,6280,Agriculture ,1,Wayamba University of Sri Lanka,5
+Biological Science,1,Ratnapura,25,0.8567,8567,Applied Science (Bio. Sci.),2,Rajarata University of Sri Lanka,3
+Biological Science,1,Ratnapura,25,0.9513,9513,Applied Science (Bio. Sci.),2,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Ratnapura,25,0.6325,6325,Applied Science (Bio. Sci.),2,"University of Vavuniya , Sri Lanka",6
+Biological Science,1,Ratnapura,25,1.6134,16134,Biological Science,3,University of Colombo,7
+Biological Science,1,Ratnapura,25,1.456,14560,Biological Science,3,University of Peradeniya,8
+Biological Science,1,Ratnapura,25,1.342,13420,Biological Science,3,University of Sri Jeyawardanapura,9
+Biological Science,1,Ratnapura,25,1.2668,12668,Biological Science,3,University of Kelaniya,10
+Biological Science,1,Ratnapura,25,0.9351,9351,Biological Science,3,University of Jaffna,1
+Biological Science,1,Ratnapura,25,1.124,11240,Biological Science,3,University of Ruhuna,11
+Biological Science,1,Ratnapura,25,0.792,7920,Biological Science,3,"Eastern University ,Sri Lanka",2
+Biological Science,1,Ratnapura,25,0.6881,6881,Biological Science,3,"South-Eastern University, Sri Lanka",12
+Biological Science,1,Ratnapura,25,1.5929,15929,Food Science & Technology,4,University of Peradeniya,8
+Biological Science,1,Ratnapura,25,1.5658,15658,Food Science & Technology,4,University of Sri Jeyawardanapura,9
+Biological Science,1,Ratnapura,25,1.2087,12087,Food Science & Technology,4,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Ratnapura,25,1.1789,11789,Food Science & Nutrition,5,Wayamba University of Sri Lanka,5
+Biological Science,1,Ratnapura,25,1.3181,13181,Agricultural Technology & Management,6,University of Peradeniya,8
+Biological Science,1,Ratnapura,25,1.7379,17379,BioChemistry & Molecular Biology,7,University of Colombo,7
+Biological Science,1,Ratnapura,25,1.7264,17264,Veterinary Science,8,University of Peradeniya,8
+Biological Science,1,Ratnapura,25,1.7587,17587,Dental Surgery,9,University of Peradeniya,8
+Biological Science,1,Ratnapura,25,-100,-1000000,Dental Surgery,9,University of Sri Jeyawardanapura,9
+Biological Science,1,Ratnapura,25,2.3374,23374,Medicine,10,University of Colombo,7
+Biological Science,1,Ratnapura,25,2.1809,21809,Medicine,10,University of Peradeniya,8
+Biological Science,1,Ratnapura,25,2.1463,21463,Medicine,10,University of Sri Jeyawardanapura,9
+Biological Science,1,Ratnapura,25,2.0527,20527,Medicine,10,University of Kelaniya,10
+Biological Science,1,Ratnapura,25,1.7713,17713,Medicine,10,University of Jaffna,1
+Biological Science,1,Ratnapura,25,1.9663,19663,Medicine,10,University of Ruhuna,11
+Biological Science,1,Ratnapura,25,1.9451,19451,Medicine,10,University of Moratuwa,13
+Biological Science,1,Ratnapura,25,-100,-1000000,Medicine,10,"Eastern University ,Sri Lanka",2
+Biological Science,1,Ratnapura,25,1.8622,18622,Medicine,10,Rajarata University of Sri Lanka,3
+Biological Science,1,Ratnapura,25,1.785,17850,Medicine,10,Sabragamuwa University of Sri Lanka,4
+Biological Science,1,Ratnapura,25,-100,-1000000,Medicine,10,Wayamba University of Sri Lanka,5

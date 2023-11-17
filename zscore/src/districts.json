@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Colombo",
+    "value": 1
+  },
+  {
+    "name": "Gampaha",
+    "value": 2
+  },
+  {
+    "name": "Kalutara",
+    "value": 3
+  },
+  {
+    "name": "Kandy",
+    "value": 4
+  },
+  {
+    "name": "Matale",
+    "value": 5
+  },
+  {
+    "name": "Nuwara Eliya",
+    "value": 6
+  },
+  {
+    "name": "Galle",
+    "value": 7
+  },
+  {
+    "name": "Matara",
+    "value": 8
+  },
+  {
+    "name": "Hambantota",
+    "value": 9
+  },
+  {
+    "name": "Jaffna",
+    "value": 10
+  },
+  {
+    "name": "Kilinochchi",
+    "value": 11
+  },
+  {
+    "name": "Mannar",
+    "value": 12
+  },
+  {
+    "name": "Mullaitivu",
+    "value": 13
+  },
+  {
+    "name": "Vavuniya",
+    "value": 14
+  },
+  {
+    "name": "Trincomalee",
+    "value": 15
+  },
+  {
+    "name": "Batticaloa",
+    "value": 16
+  },
+  {
+    "name": "Ampara",
+    "value": 17
+  },
+  {
+    "name": "Puttalam",
+    "value": 18
+  },
+  {
+    "name": "Kurunegala",
+    "value": 19
+  },
+  {
+    "name": "Anuradhapura",
+    "value": 20
+  },
+  {
+    "name": "Polonnaruwa",
+    "value": 21
+  },
+  {
+    "name": "Badulla",
+    "value": 22
+  },
+  {
+    "name": "Monaragala",
+    "value": 23
+  },
+  {
+    "name": "Kegalle",
+    "value": 24
+  },
+  {
+    "name": "Ratnapura",
+    "value": 25
+  }
+]
