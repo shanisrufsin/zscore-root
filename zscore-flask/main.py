@@ -10,9 +10,8 @@ app = Flask(__name__);
 cors = CORS(app)
 app.config['CORS_HEADERS'] = 'Content-Type'
 
-
 @app.route('/',methods=['POST'])
-@cross_origin()
+@cross_origin('*')
 def home():
     body = request.get_json()
     zscore = body['zscore']
@@ -39,7 +38,7 @@ def home():
     return jsonify(list(set(predictions)))
 
 @app.route('/new',methods=['POST'])
-@cross_origin()
+@cross_origin('*')
 def new():
     body = request.get_json()
     zscore = body['zscore']

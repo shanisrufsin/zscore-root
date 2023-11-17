@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start:dev": "concurrently \"npm run -C ./zscore dev\" \"source zscore-flask/flask_env/bin/activate\" \"python3 zscore-flask/main.py\" "
+    "start:dev": "concurrently \"npm run -C ./zscore dev\" \"source zscore-flask/flask_env/bin/activate\" \"python3 zscore-flask/main.py\" ",
+    "start": "concurrently \"npm run -C ./zscore build && npm run -C ./zscore start\" \"source zscore-flask/flask_env/bin/activate\" \"python3 zscore-flask/main.py\" "
   },
   "keywords": [],
   "author": "",
